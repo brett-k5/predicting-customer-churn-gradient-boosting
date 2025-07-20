@@ -1,0 +1,1410 @@
+type,paperless_billing,payment_method,monthly_charges,total_charges,gender,senior_citizen,partner,dependents,p_i_or_b,internet_service,online_security,online_backup,device_protection,tech_support,streaming_tv,streaming_movies,multiple_lines,customer_duration,target
+one year,no,credit card (automatic),47.85,2356.75,male,0,no,yes,both,dsl,no,no,no,yes,no,no,no,1540.67504900232,0
+two year,yes,electronic check,99.0,6994.6,male,0,yes,no,both,fiber optic,yes,yes,yes,no,yes,no,yes,2150.3704277728225,0
+one year,yes,bank transfer (automatic),24.4,1601.2,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1934.0845965681442,0
+two year,yes,credit card (automatic),83.25,4089.45,male,0,yes,no,both,dsl,yes,yes,yes,yes,yes,yes,no,1539.3541591576156,0
+month-to-month,yes,electronic check,90.05,2627.2,female,1,yes,no,both,fiber optic,no,yes,no,no,yes,no,yes,900.7906575685909,0
+two year,yes,bank transfer (automatic),108.4,7318.2,male,1,yes,no,both,fiber optic,no,yes,yes,yes,yes,yes,yes,2084.641642283018,1
+two year,yes,credit card (automatic),85.95,5931.75,male,0,yes,yes,both,dsl,no,yes,yes,yes,yes,yes,yes,2117.735079353324,0
+month-to-month,no,mailed check,24.7,24.7,female,0,no,yes,internet,dsl,no,no,no,no,no,no,nan,16.97212456238943,0
+two year,yes,credit card (automatic),25.3,1673.8,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,1995.5384873008447,0
+month-to-month,no,credit card (automatic),95.0,2462.55,female,0,yes,no,both,fiber optic,no,no,no,no,yes,yes,yes,809.8399679944497,0
+month-to-month,no,electronic check,48.7,340.25,male,0,yes,yes,both,dsl,no,no,yes,no,no,no,no,201.29473664152704,1
+month-to-month,yes,electronic check,20.3,511.25,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,778.7379479228233,0
+one year,no,mailed check,60.7,1597.4,female,1,yes,no,both,dsl,no,no,yes,no,no,yes,no,777.6049838112766,0
+month-to-month,yes,electronic check,45.45,411.75,female,0,yes,yes,both,dsl,no,no,no,no,no,no,no,230.40395828844643,0
+month-to-month,yes,bank transfer (automatic),85.2,3969.35,female,1,no,no,both,fiber optic,no,yes,yes,no,no,no,yes,1417.5382675081735,1
+month-to-month,no,electronic check,70.75,154.85,female,1,no,no,both,fiber optic,no,no,no,no,no,no,no,48.865575648476096,1
+month-to-month,yes,mailed check,20.55,33.6,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,48.82900323045361,0
+month-to-month,yes,bank transfer (automatic),84.8,3862.55,female,0,no,no,both,fiber optic,no,yes,yes,no,no,no,yes,1323.8616965654817,1
+two year,no,mailed check,24.8,1229.1,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,1570.0748847516763,0
+one year,no,mailed check,53.65,1355.45,male,0,yes,yes,both,dsl,no,yes,yes,no,no,no,no,748.9255240326274,0
+month-to-month,no,electronic check,44.35,81.25,male,0,no,no,both,dsl,no,no,no,no,no,no,no,48.65910646563002,1
+month-to-month,no,mailed check,75.3,1570.7,male,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,627.2739049134483,0
+one year,no,credit card (automatic),80.3,5017.7,male,1,yes,no,both,fiber optic,yes,no,yes,no,no,no,no,1935.9267841679466,0
+month-to-month,yes,electronic check,29.9,118.25,male,1,yes,no,internet,dsl,no,no,yes,no,no,no,nan,108.90733910220973,0
+one year,no,credit card (automatic),73.9,3160.55,female,0,no,no,both,dsl,yes,yes,yes,yes,no,yes,no,1264.3575543391669,1
+month-to-month,no,electronic check,59.8,3641.5,female,0,yes,yes,both,dsl,yes,yes,no,no,no,no,yes,1844.3849964884514,0
+two year,yes,bank transfer (automatic),108.1,5067.45,male,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1448.7086035470597,0
+one year,no,mailed check,19.9,791.15,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1172.5962124688588,0
+month-to-month,no,mailed check,49.25,208.45,male,0,no,no,both,dsl,no,yes,no,no,no,no,no,108.75450367544806,0
+one year,yes,bank transfer (automatic),20.95,495.15,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,746.5764898236695,0
+month-to-month,no,bank transfer (automatic),66.4,94.55,male,1,no,no,both,dsl,yes,no,yes,no,yes,no,no,47.32625547633653,1
+month-to-month,no,mailed check,19.0,233.55,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,352.1546136552153,1
+one year,yes,credit card (automatic),60.8,4263.4,male,0,yes,no,internet,dsl,no,yes,yes,yes,yes,yes,nan,2087.6425698209828,0
+month-to-month,no,mailed check,20.05,20.05,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,16.80998514150557,0
+month-to-month,yes,electronic check,84.6,1115.2,female,0,no,no,both,fiber optic,no,no,no,no,no,yes,yes,380.8097257498021,1
+month-to-month,no,credit card (automatic),69.7,516.15,male,0,yes,yes,both,dsl,yes,no,no,no,yes,yes,no,201.15997146945486,0
+month-to-month,yes,electronic check,80.5,232.35,female,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,78.92819474101668,0
+month-to-month,no,electronic check,74.95,308.7,male,1,yes,no,both,fiber optic,no,no,no,no,no,no,yes,108.33100113733346,1
+month-to-month,yes,electronic check,99.15,6010.05,female,0,yes,yes,both,fiber optic,no,yes,no,no,yes,yes,yes,1842.1998272230644,1
+two year,yes,mailed check,81.3,5129.3,female,0,yes,no,both,dsl,yes,yes,yes,yes,no,yes,yes,1936.7841874931412,0
+two year,no,credit card (automatic),25.25,555.4,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,657.5851304698558,0
+month-to-month,no,electronic check,86.45,830.85,female,0,no,no,both,fiber optic,no,no,no,no,no,yes,yes,288.4723966263018,1
+month-to-month,yes,credit card (automatic),95.9,1777.9,male,1,no,no,both,fiber optic,no,no,yes,no,yes,yes,no,566.5141307609739,1
+month-to-month,yes,electronic check,35.9,973.65,female,1,yes,yes,internet,dsl,no,no,no,no,yes,no,nan,839.0371484636672,0
+month-to-month,yes,bank transfer (automatic),69.75,2347.9,male,0,yes,yes,both,fiber optic,no,no,no,no,no,no,no,957.2584015009735,1
+month-to-month,yes,mailed check,88.35,262.05,male,0,no,no,both,fiber optic,no,no,yes,yes,yes,no,no,77.99594275621837,1
+month-to-month,yes,bank transfer (automatic),94.4,387.2,female,0,no,no,both,fiber optic,yes,no,yes,yes,no,yes,no,110.47549440825065,1
+two year,yes,bank transfer (automatic),112.25,8041.65,male,0,yes,yes,both,fiber optic,no,yes,yes,yes,yes,yes,yes,2178.558126411871,0
+month-to-month,yes,electronic check,79.95,857.2,male,0,yes,no,both,fiber optic,no,no,no,no,yes,no,no,291.4941352294082,1
+month-to-month,yes,electronic check,94.25,3217.55,female,1,yes,no,both,fiber optic,no,yes,yes,no,no,yes,yes,1018.9227617684463,1
+month-to-month,yes,credit card (automatic),75.3,1147.45,female,1,no,no,both,fiber optic,no,yes,no,no,no,no,no,443.66992704855477,1
+one year,yes,electronic check,111.95,4534.9,male,1,yes,yes,both,fiber optic,no,yes,yes,yes,yes,yes,yes,1233.3412192437,1
+month-to-month,yes,electronic check,54.6,1803.7,male,1,no,no,internet,dsl,no,no,yes,yes,yes,yes,nan,992.5426555491281,0
+two year,yes,credit card (automatic),54.05,2375.2,male,0,yes,yes,internet,dsl,yes,yes,yes,yes,no,yes,nan,1325.28858794892,0
+month-to-month,yes,electronic check,74.35,265.35,male,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,107.37782606797745,1
+month-to-month,yes,credit card (automatic),85.9,3729.75,female,0,yes,no,both,fiber optic,no,no,yes,yes,no,no,yes,1264.8361705535287,0
+month-to-month,no,mailed check,19.55,122.9,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,169.60210162920794,0
+month-to-month,yes,electronic check,75.85,256.6,female,0,yes,no,both,fiber optic,no,no,no,no,no,no,yes,78.30347290429222,1
+month-to-month,no,bank transfer (automatic),39.1,971.3,male,1,yes,no,internet,dsl,yes,no,no,no,no,yes,nan,715.2096876637329,1
+month-to-month,yes,electronic check,90.6,90.6,female,1,yes,no,both,fiber optic,no,yes,no,no,yes,no,yes,17.7582701332588,1
+month-to-month,yes,mailed check,50.15,2139.1,female,0,no,no,both,dsl,no,no,no,no,no,no,yes,1325.4217668255192,0
+month-to-month,yes,electronic check,54.1,889.0,female,1,no,no,both,dsl,yes,no,no,no,no,no,yes,473.07963572287906,0
+month-to-month,yes,mailed check,105.35,5794.45,male,0,no,no,both,fiber optic,yes,no,no,yes,yes,yes,yes,1693.6944496175324,0
+one year,yes,credit card (automatic),49.4,3251.85,female,0,yes,yes,both,dsl,no,no,no,yes,no,no,no,1997.7935566316517,0
+month-to-month,yes,credit card (automatic),99.1,1426.4,female,0,no,no,both,fiber optic,yes,yes,no,no,yes,yes,no,441.83400954002826,1
+one year,yes,mailed check,20.1,279.5,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,504.5875187956176,0
+two year,no,credit card (automatic),19.8,475.2,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,747.6726785899233,0
+two year,no,credit card (automatic),20.15,982.95,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1448.6330168409388,0
+month-to-month,yes,bank transfer (automatic),34.0,853.0,female,0,yes,no,internet,dsl,no,no,no,no,yes,no,nan,746.3821589060417,1
+month-to-month,yes,credit card (automatic),79.15,827.7,male,1,no,no,both,fiber optic,no,no,no,no,no,yes,no,322.7179292256772,0
+two year,no,credit card (automatic),59.5,3389.25,male,0,yes,no,both,dsl,no,yes,yes,no,no,no,yes,1691.8994551173596,0
+month-to-month,yes,credit card (automatic),94.8,3565.65,female,0,no,no,both,fiber optic,no,yes,no,no,yes,yes,no,1081.2526950166427,0
+two year,no,credit card (automatic),90.2,6297.65,female,0,yes,no,both,fiber optic,no,yes,yes,yes,no,no,yes,2057.5120201025247,0
+month-to-month,no,mailed check,35.1,101.1,male,0,yes,no,internet,dsl,yes,no,no,yes,no,no,nan,78.62596641808221,0
+one year,yes,credit card (automatic),74.85,4456.35,female,1,yes,yes,both,dsl,yes,yes,yes,yes,no,yes,no,1813.4704122134308,0
+two year,no,credit card (automatic),66.25,3330.1,female,0,yes,no,internet,dsl,yes,yes,yes,yes,yes,yes,nan,1571.9866285130927,0
+one year,no,credit card (automatic),104.5,6590.8,male,0,no,no,both,fiber optic,yes,yes,yes,yes,yes,no,yes,1905.5599622371503,0
+one year,yes,credit card (automatic),82.95,4903.15,male,1,yes,no,both,fiber optic,yes,yes,yes,no,no,no,no,1784.359955445894,0
+one year,yes,mailed check,36.25,1151.05,male,0,yes,yes,internet,dsl,no,no,yes,yes,no,no,nan,961.360653460959,0
+month-to-month,no,bank transfer (automatic),59.7,1825.5,male,0,yes,yes,both,dsl,no,no,no,no,no,yes,yes,930.2519466574039,0
+month-to-month,no,mailed check,20.0,63.6,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,77.52730793474439,0
+two year,no,credit card (automatic),25.8,1911.5,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2058.0867814362473,0
+month-to-month,no,bank transfer (automatic),88.4,2191.15,female,1,yes,no,both,fiber optic,no,yes,yes,no,no,yes,no,747.2486959282542,0
+one year,no,mailed check,20.0,218.55,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,381.59212152693084,0
+one year,yes,bank transfer (automatic),58.4,4113.15,female,0,yes,yes,internet,dsl,no,yes,yes,yes,yes,yes,nan,2118.0575220112223,0
+month-to-month,yes,bank transfer (automatic),79.0,929.3,female,0,no,no,both,fiber optic,yes,no,no,no,no,no,yes,322.00972961560973,0
+month-to-month,yes,credit card (automatic),93.2,1573.7,female,0,no,no,both,fiber optic,no,yes,yes,no,no,yes,no,473.58885536066333,1
+month-to-month,yes,mailed check,86.3,3266.0,male,0,yes,yes,both,fiber optic,no,yes,no,no,yes,no,no,1173.2741515365929,1
+month-to-month,no,electronic check,50.8,50.8,male,0,no,no,both,dsl,no,yes,no,no,no,no,no,15.548690408325285,1
+one year,yes,mailed check,100.05,2090.25,male,0,yes,yes,both,fiber optic,no,yes,yes,no,yes,yes,no,656.455234454921,0
+month-to-month,no,mailed check,45.8,1147.0,female,0,no,yes,internet,dsl,yes,no,no,yes,no,yes,nan,777.7091344676322,0
+month-to-month,yes,electronic check,84.6,84.6,female,0,no,no,both,fiber optic,no,no,no,no,yes,no,yes,16.31381379145239,0
+month-to-month,yes,credit card (automatic),78.1,864.85,female,1,yes,yes,both,fiber optic,no,no,yes,no,no,no,yes,323.02750766204116,0
+month-to-month,yes,credit card (automatic),81.0,389.6,female,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,138.6256865211349,1
+one year,no,mailed check,61.25,1993.2,female,0,yes,yes,internet,dsl,yes,no,yes,yes,yes,yes,nan,1022.1531610565377,0
+one year,no,bank transfer (automatic),24.35,1133.7,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1446.3002020031872,0
+two year,no,mailed check,20.6,1286.0,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1785.7576760582351,0
+two year,no,credit card (automatic),68.95,4858.7,male,0,yes,yes,both,dsl,yes,no,yes,no,yes,no,yes,2119.557778608436,0
+month-to-month,yes,credit card (automatic),45.2,2065.15,male,0,no,no,both,dsl,no,no,no,no,no,no,no,1387.7597499596052,0
+month-to-month,no,electronic check,101.35,780.5,female,1,no,no,both,fiber optic,no,no,yes,no,yes,yes,yes,231.23667912223374,1
+month-to-month,yes,credit card (automatic),100.25,100.25,female,0,no,no,both,fiber optic,no,yes,no,no,yes,yes,yes,16.440564450674074,1
+month-to-month,no,bank transfer (automatic),72.8,3249.4,male,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,1388.178053501276,0
+month-to-month,yes,electronic check,44.95,926.25,female,0,yes,yes,both,dsl,no,no,no,no,no,no,no,626.1953538105513,0
+month-to-month,yes,bank transfer (automatic),85.35,1463.45,female,1,yes,no,both,fiber optic,yes,no,yes,no,no,no,yes,505.3084586621759,1
+month-to-month,yes,electronic check,93.15,2231.05,male,1,yes,no,both,fiber optic,no,no,yes,no,yes,yes,no,717.7177695144395,1
+month-to-month,no,mailed check,19.3,144.95,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,200.2208585923585,0
+one year,no,bank transfer (automatic),100.55,7113.75,male,0,yes,yes,both,fiber optic,no,yes,no,no,yes,yes,yes,2149.684691951791,0
+month-to-month,yes,electronic check,103.05,5364.8,male,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1570.718250934002,0
+two year,no,bank transfer (automatic),72.95,5265.55,male,0,yes,no,both,dsl,no,yes,yes,yes,yes,no,yes,2117.4140518441623,0
+two year,yes,bank transfer (automatic),82.7,5831.2,female,1,yes,no,both,dsl,yes,yes,yes,yes,no,yes,yes,2148.3173529154374,0
+month-to-month,no,mailed check,70.85,70.85,male,1,yes,no,both,fiber optic,no,no,no,no,no,no,no,16.140022524787135,1
+one year,yes,mailed check,23.95,1216.35,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,1539.5663791349073,0
+month-to-month,yes,bank transfer (automatic),50.9,2333.85,female,0,yes,yes,internet,dsl,yes,no,no,no,yes,yes,nan,1358.152427660001,0
+month-to-month,no,credit card (automatic),86.15,2745.7,female,0,yes,yes,both,fiber optic,no,no,no,no,no,yes,yes,990.1192177881918,1
+month-to-month,yes,mailed check,45.3,196.95,female,0,no,no,both,dsl,no,no,no,no,no,no,no,110.42159319218221,1
+month-to-month,yes,bank transfer (automatic),80.9,1152.8,female,0,yes,yes,both,fiber optic,no,no,no,no,no,yes,no,412.87346975975976,0
+month-to-month,yes,electronic check,25.2,25.2,female,1,no,no,internet,dsl,no,no,no,no,no,no,nan,15.61732007286722,1
+month-to-month,no,mailed check,20.4,181.8,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,263.9820198777253,0
+month-to-month,yes,credit card (automatic),74.75,1129.35,female,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,474.77051606660683,0
+two year,yes,credit card (automatic),84.1,6129.65,female,1,yes,no,both,dsl,yes,yes,yes,no,yes,yes,yes,2178.384098332873,0
+month-to-month,yes,electronic check,55.3,2654.05,male,0,no,yes,both,dsl,yes,yes,no,no,no,no,no,1419.6968163571178,0
+one year,yes,bank transfer (automatic),20.5,865.05,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1325.3490128968358,0
+month-to-month,yes,mailed check,89.85,244.45,male,0,no,no,both,fiber optic,no,no,yes,yes,yes,no,no,77.70806376082135,0
+month-to-month,no,mailed check,77.9,2351.45,male,1,yes,no,both,fiber optic,no,no,no,no,no,no,yes,900.1471033917618,0
+two year,yes,credit card (automatic),20.3,487.95,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,840.5071401498368,0
+one year,yes,electronic check,70.95,3250.45,male,0,yes,no,both,dsl,no,yes,yes,yes,yes,no,no,1326.1904264556324,0
+one year,yes,credit card (automatic),81.25,4639.45,female,0,yes,no,both,fiber optic,yes,no,yes,no,no,no,no,1785.7542464694548,0
+one year,yes,credit card (automatic),66.05,3462.1,female,0,yes,no,both,dsl,yes,yes,no,yes,no,no,yes,1661.3694417498157,0
+month-to-month,yes,bank transfer (automatic),85.4,5869.4,female,0,yes,no,both,fiber optic,no,yes,yes,no,no,no,yes,2089.8224194051395,0
+month-to-month,yes,mailed check,80.6,319.15,male,0,yes,no,both,fiber optic,no,no,yes,yes,no,no,no,107.92453811933954,1
+two year,yes,credit card (automatic),73.35,5154.5,male,0,yes,yes,both,dsl,no,yes,no,yes,yes,yes,no,2149.0667380863547,0
+month-to-month,yes,mailed check,70.8,70.8,female,0,no,no,both,fiber optic,no,no,no,no,no,no,no,18.43221109752853,1
+month-to-month,yes,electronic check,103.05,5925.75,male,0,yes,no,both,fiber optic,yes,yes,yes,yes,yes,no,yes,1723.317308686004,0
+two year,yes,bank transfer (automatic),98.7,6858.9,male,0,yes,no,both,fiber optic,no,yes,yes,yes,no,yes,yes,2119.3346985582284,0
+month-to-month,yes,bank transfer (automatic),60.2,3582.4,male,0,yes,no,internet,dsl,no,yes,yes,yes,yes,yes,nan,1811.6333692080798,0
+month-to-month,no,electronic check,79.25,267.6,male,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,79.00357771622393,1
+two year,yes,credit card (automatic),104.05,6605.55,male,0,yes,no,both,fiber optic,yes,yes,no,yes,yes,yes,no,1936.7210383750216,0
+month-to-month,yes,mailed check,25.45,84.2,female,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,110.95949721555117,0
+month-to-month,yes,electronic check,90.55,90.55,male,0,no,no,both,fiber optic,no,no,no,no,yes,yes,no,15.47201515113589,1
+month-to-month,yes,electronic check,55.8,2109.35,female,1,no,no,internet,dsl,yes,yes,no,no,yes,yes,nan,1202.6962515334317,1
+two year,no,bank transfer (automatic),25.0,1753.0,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2149.223824732869,0
+month-to-month,no,electronic check,100.6,5746.15,male,1,yes,no,both,fiber optic,no,no,yes,no,yes,yes,yes,1722.237791154095,1
+one year,yes,credit card (automatic),104.05,3416.85,female,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,962.482848698238,0
+two year,yes,credit card (automatic),113.05,7869.05,female,0,yes,yes,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2119.834364797771,0
+one year,no,mailed check,20.2,34.75,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,48.633297678938646,0
+month-to-month,yes,electronic check,30.5,167.2,female,0,yes,yes,internet,dsl,no,yes,no,no,no,no,nan,139.90056327643808,0
+month-to-month,no,electronic check,105.3,550.6,male,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,139.7756846914015,0
+month-to-month,yes,mailed check,89.85,2165.05,male,0,no,no,both,fiber optic,no,no,yes,no,yes,no,yes,717.4757044569228,1
+month-to-month,yes,electronic check,105.05,6914.95,female,0,yes,no,both,fiber optic,yes,no,yes,no,yes,yes,yes,1966.6738568418866,0
+one year,yes,bank transfer (automatic),66.5,2728.6,female,0,yes,yes,both,dsl,no,yes,no,yes,no,yes,no,1234.969779622738,1
+month-to-month,yes,electronic check,74.65,521.1,female,0,no,no,both,dsl,no,no,no,yes,yes,yes,yes,199.225245127369,1
+month-to-month,yes,credit card (automatic),65.2,1043.35,female,0,no,no,both,dsl,no,no,yes,no,no,yes,yes,474.1043092325823,1
+month-to-month,yes,bank transfer (automatic),95.25,5427.05,male,1,yes,no,both,fiber optic,no,yes,yes,no,no,yes,yes,1723.6295196455676,1
+month-to-month,no,bank transfer (automatic),20.05,94.15,male,1,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,140.14637719525365,0
+two year,yes,bank transfer (automatic),53.5,3517.9,female,1,no,no,internet,dsl,no,yes,yes,no,yes,yes,nan,1965.4824683598042,0
+month-to-month,yes,electronic check,93.85,196.75,male,1,no,no,both,fiber optic,no,no,no,no,yes,yes,yes,47.986735046059785,1
+one year,yes,credit card (automatic),36.1,1971.5,male,0,yes,yes,internet,dsl,no,yes,yes,no,no,no,nan,1693.5713498411776,0
+month-to-month,yes,credit card (automatic),90.7,1781.35,male,0,no,no,both,fiber optic,no,no,yes,no,yes,no,yes,596.3261256669176,0
+month-to-month,yes,electronic check,89.2,346.2,female,1,no,no,both,fiber optic,no,no,yes,no,yes,no,yes,109.54708530370934,1
+month-to-month,yes,electronic check,85.5,791.7,male,0,no,no,both,fiber optic,no,no,no,no,yes,no,yes,263.61420147746134,0
+month-to-month,yes,electronic check,47.8,92.45,male,0,no,no,both,dsl,yes,no,no,no,no,no,no,48.276089017376364,1
+one year,no,bank transfer (automatic),53.8,651.55,female,0,no,no,both,dsl,no,no,yes,yes,no,no,no,322.61924897203494,0
+month-to-month,no,mailed check,60.65,196.9,male,0,no,no,both,dsl,no,no,no,yes,no,yes,no,77.59670316461731,0
+month-to-month,yes,credit card (automatic),105.1,7548.1,male,1,yes,yes,both,fiber optic,yes,yes,no,no,yes,yes,yes,2145.163968994319,1
+two year,no,electronic check,102.1,6538.45,male,1,yes,no,both,fiber optic,no,no,yes,yes,yes,yes,yes,1936.7405429381524,0
+month-to-month,yes,electronic check,101.4,3143.65,male,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,no,931.8417014686448,0
+one year,no,bank transfer (automatic),74.4,1712.9,male,0,yes,no,both,dsl,yes,no,no,yes,yes,yes,no,717.9589139067452,0
+month-to-month,no,electronic check,90.05,4137.2,male,0,yes,yes,both,fiber optic,yes,no,yes,no,no,yes,no,1418.5346689372682,0
+month-to-month,no,electronic check,98.7,4920.55,male,0,no,no,both,fiber optic,no,yes,no,no,yes,yes,yes,1478.5046948015965,0
+two year,yes,credit card (automatic),25.15,1327.15,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1691.1474544496543,1
+month-to-month,no,mailed check,40.3,92.5,female,0,yes,yes,internet,dsl,no,yes,no,no,no,yes,nan,79.79051249660307,0
+month-to-month,no,credit card (automatic),20.0,1087.25,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1662.2077976878713,0
+month-to-month,yes,electronic check,80.2,146.05,female,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,48.693532944491125,1
+month-to-month,no,mailed check,44.95,85.15,male,1,no,no,both,dsl,no,no,no,no,no,no,no,48.052409170662315,1
+two year,no,credit card (automatic),111.8,5443.65,male,0,yes,yes,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,1448.7046491952094,0
+month-to-month,yes,electronic check,72.1,72.1,female,1,no,no,both,fiber optic,no,no,no,no,no,no,yes,16.036930264198986,0
+month-to-month,yes,credit card (automatic),75.35,3161.4,male,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,1297.048740622937,0
+month-to-month,yes,electronic check,64.0,370.25,female,0,no,no,both,dsl,no,yes,no,no,no,yes,yes,139.08722915077684,0
+one year,yes,credit card (automatic),56.25,1454.25,male,0,yes,yes,both,dsl,yes,no,yes,no,no,no,no,716.8779785898524,0
+month-to-month,yes,electronic check,86.55,649.65,male,0,no,no,both,fiber optic,no,no,no,no,no,yes,yes,230.82032768381623,1
+one year,yes,electronic check,79.8,4914.8,male,0,yes,no,both,dsl,no,yes,yes,no,yes,yes,yes,1844.9698034845378,0
+one year,no,electronic check,74.05,2802.3,male,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,no,no,1144.2084391779574,0
+month-to-month,yes,electronic check,69.25,69.25,female,1,yes,yes,both,fiber optic,no,no,no,no,no,no,no,18.668826850706843,1
+one year,no,bank transfer (automatic),93.7,5860.7,female,0,yes,no,both,fiber optic,yes,yes,no,yes,no,yes,no,1843.6419112473814,0
+one year,yes,electronic check,53.5,3035.8,male,1,no,no,both,dsl,no,no,yes,yes,no,no,no,1724.5613700904585,0
+month-to-month,yes,electronic check,88.05,801.3,male,0,yes,no,both,fiber optic,yes,no,no,no,no,yes,yes,263.4654557993999,0
+month-to-month,yes,bank transfer (automatic),48.65,235.2,male,0,no,yes,both,dsl,no,no,no,yes,no,no,no,139.32961191783602,0
+month-to-month,yes,electronic check,88.55,179.25,female,1,no,no,both,fiber optic,no,no,yes,no,no,yes,yes,46.95770045581742,1
+month-to-month,no,electronic check,48.8,349.8,female,0,yes,yes,both,dsl,no,no,no,no,no,no,yes,201.07854028470103,0
+one year,no,mailed check,20.5,1328.15,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1903.224876295537,0
+one year,yes,electronic check,93.15,5253.95,male,0,yes,no,both,fiber optic,yes,yes,yes,no,no,no,yes,1692.678146721894,0
+two year,yes,bank transfer (automatic),74.8,4820.15,male,0,yes,yes,both,dsl,yes,no,no,yes,yes,yes,no,1965.1498367055476,1
+month-to-month,yes,bank transfer (automatic),93.25,4631.7,male,0,yes,yes,both,fiber optic,no,yes,no,yes,no,yes,yes,1570.2857140572069,0
+month-to-month,yes,electronic check,85.0,2624.25,female,0,yes,no,both,fiber optic,no,no,no,no,no,yes,yes,901.7766781901834,1
+two year,yes,electronic check,100.45,3801.7,male,0,no,no,both,fiber optic,yes,no,yes,no,yes,yes,no,1173.8725021401663,0
+one year,no,bank transfer (automatic),19.8,1336.65,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1934.1688608636266,0
+two year,no,bank transfer (automatic),23.95,1713.1,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2088.502547419724,0
+month-to-month,yes,bank transfer (automatic),80.6,2656.5,female,1,yes,no,both,fiber optic,no,yes,no,no,no,no,yes,992.2090688144128,1
+two year,yes,credit card (automatic),89.55,6448.85,female,1,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,yes,2176.0089269970968,0
+one year,yes,electronic check,90.35,767.9,male,0,yes,yes,both,fiber optic,no,no,yes,no,yes,no,yes,263.43545220546997,0
+two year,yes,credit card (automatic),109.75,7758.9,male,0,yes,no,both,fiber optic,no,yes,yes,yes,yes,yes,yes,2178.674960617356,0
+one year,yes,bank transfer (automatic),67.5,1544.05,male,0,yes,yes,both,dsl,yes,no,yes,yes,yes,no,no,655.156441835987,1
+month-to-month,yes,electronic check,59.85,59.85,male,0,no,no,both,dsl,no,no,no,no,yes,no,yes,17.326289069129153,1
+two year,yes,credit card (automatic),114.1,8086.4,male,0,yes,no,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2176.8322084767683,0
+month-to-month,yes,electronic check,79.1,246.5,female,0,no,no,both,fiber optic,yes,yes,no,no,no,no,no,79.8354306275117,1
+two year,yes,credit card (automatic),88.85,6132.7,male,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,yes,2058.413689144043,0
+month-to-month,yes,credit card (automatic),102.1,5885.4,female,0,yes,no,both,fiber optic,no,no,yes,yes,yes,yes,yes,1751.2255144665746,1
+month-to-month,yes,bank transfer (automatic),85.65,659.45,male,0,yes,no,both,fiber optic,no,no,no,no,no,yes,yes,231.4368631173261,0
+month-to-month,no,electronic check,94.4,1607.2,female,0,yes,yes,both,fiber optic,yes,no,yes,no,yes,no,yes,503.7308070722783,1
+two year,yes,electronic check,103.4,7372.65,male,0,yes,yes,both,fiber optic,no,yes,yes,no,yes,yes,yes,2177.3831772891513,1
+one year,yes,electronic check,51.35,2075.1,male,0,no,no,internet,dsl,no,no,yes,no,yes,yes,nan,1235.0063691730873,0
+one year,yes,credit card (automatic),81.45,4983.05,male,0,yes,yes,both,fiber optic,yes,yes,no,no,no,no,no,1874.8417511051405,0
+month-to-month,yes,bank transfer (automatic),85.15,503.6,male,1,no,no,both,fiber optic,yes,no,no,no,yes,no,no,169.34778651968213,1
+month-to-month,no,electronic check,67.6,2000.2,male,0,yes,yes,both,dsl,yes,yes,yes,yes,no,no,yes,901.0698799593368,0
+two year,no,bank transfer (automatic),19.45,1303.5,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,2117.4444918761556,0
+month-to-month,yes,bank transfer (automatic),74.95,2869.85,female,1,yes,no,both,fiber optic,no,no,no,no,no,no,yes,1142.0247485594932,1
+month-to-month,yes,mailed check,80.55,1248.9,male,0,no,no,both,fiber optic,no,yes,no,no,no,no,yes,473.10773083828224,0
+month-to-month,yes,electronic check,69.85,69.85,female,1,no,no,both,fiber optic,no,no,no,no,no,no,no,16.36407327652727,1
+one year,yes,mailed check,95.15,5000.05,female,0,yes,yes,both,fiber optic,yes,no,no,yes,yes,no,yes,1539.5978354144925,0
+month-to-month,yes,electronic check,94.85,953.45,female,0,no,no,both,fiber optic,no,yes,yes,no,no,yes,yes,293.78861092184366,1
+two year,no,mailed check,20.2,1277.75,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1934.1610017163732,0
+month-to-month,yes,credit card (automatic),94.55,3640.45,female,1,yes,yes,both,fiber optic,no,no,no,no,yes,yes,yes,1203.0275333585146,1
+month-to-month,no,electronic check,78.85,1043.8,female,1,no,no,both,fiber optic,yes,yes,no,no,no,no,no,412.85012105825376,0
+two year,no,mailed check,20.1,670.35,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,992.1363151871952,0
+month-to-month,no,electronic check,70.2,1046.5,female,0,yes,yes,both,fiber optic,no,no,no,no,no,no,no,413.37492309878655,0
+month-to-month,no,electronic check,89.4,1132.35,female,0,no,no,both,fiber optic,no,yes,yes,yes,no,no,yes,382.67250437818103,1
+month-to-month,yes,electronic check,79.15,1676.95,female,0,no,no,both,fiber optic,no,yes,no,no,no,no,yes,684.3395910996051,1
+month-to-month,no,mailed check,19.05,19.05,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,16.700805554245395,0
+one year,yes,credit card (automatic),102.45,6654.1,male,0,yes,no,both,fiber optic,no,yes,yes,yes,yes,yes,no,1935.588381571061,0
+month-to-month,yes,electronic check,89.85,3091.75,male,0,yes,yes,both,fiber optic,no,yes,yes,no,yes,no,no,1021.170635213195,0
+month-to-month,yes,electronic check,73.5,632.2,female,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,232.66239165311399,0
+one year,no,mailed check,64.9,685.55,female,0,no,no,both,dsl,no,yes,no,yes,no,yes,no,291.381118692519,0
+month-to-month,yes,electronic check,79.65,79.65,female,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,16.93232557187962,1
+month-to-month,yes,credit card (automatic),73.6,232.5,male,0,no,no,both,fiber optic,no,no,yes,no,no,no,no,77.67843740696924,0
+month-to-month,yes,electronic check,80.25,3439.0,male,0,yes,no,both,fiber optic,no,yes,no,no,no,no,yes,1234.0972896386577,0
+two year,yes,credit card (automatic),97.95,7114.25,male,0,yes,no,both,fiber optic,yes,yes,yes,no,yes,no,yes,2176.739195209885,0
+two year,no,bank transfer (automatic),19.8,1378.75,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,2117.732891960183,0
+month-to-month,yes,electronic check,74.4,1074.3,male,1,no,no,both,fiber optic,no,yes,no,no,no,no,no,443.5037338018252,1
+month-to-month,yes,bank transfer (automatic),100.6,3270.25,male,1,yes,no,both,fiber optic,no,yes,no,no,yes,yes,yes,993.7130054482872,0
+month-to-month,no,electronic check,24.5,46.4,female,0,no,no,internet,dsl,no,no,no,no,no,no,nan,47.945391110813766,0
+two year,yes,credit card (automatic),79.15,3566.6,male,0,yes,yes,both,dsl,yes,no,yes,yes,yes,yes,no,1295.8957510629134,0
+two year,no,bank transfer (automatic),64.75,4804.75,female,0,yes,no,both,dsl,yes,yes,no,yes,no,no,yes,2176.950009761618,0
+month-to-month,yes,mailed check,61.9,2647.1,male,0,no,no,both,dsl,yes,yes,no,yes,no,no,no,1203.2595080066544,0
+month-to-month,yes,electronic check,99.35,4749.15,male,0,yes,yes,both,fiber optic,no,yes,no,no,yes,yes,yes,1418.3196926312846,1
+two year,no,bank transfer (automatic),21.05,262.05,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,351.33497848939106,0
+month-to-month,yes,electronic check,85.45,1451.6,female,0,yes,yes,both,fiber optic,no,no,no,no,no,yes,yes,504.0066647290102,1
+month-to-month,yes,electronic check,100.05,3480.0,male,0,yes,no,both,fiber optic,no,no,yes,no,yes,yes,yes,1021.253480321499,1
+month-to-month,yes,mailed check,55.8,154.55,male,0,yes,no,both,dsl,no,no,yes,yes,no,no,no,79.67600734224482,0
+month-to-month,yes,bank transfer (automatic),74.4,1692.6,female,1,no,no,both,fiber optic,no,no,no,no,no,no,yes,656.6292777262078,1
+month-to-month,yes,mailed check,71.55,71.55,male,0,no,no,both,fiber optic,no,no,no,no,no,no,no,16.819667143422574,1
+two year,no,bank transfer (automatic),58.25,4145.9,female,0,yes,no,internet,dsl,no,yes,yes,yes,yes,yes,nan,2149.538627230989,0
+one year,yes,bank transfer (automatic),105.1,5376.4,male,1,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1569.9363272651306,0
+two year,no,credit card (automatic),45.25,3139.8,male,0,yes,yes,internet,dsl,yes,yes,yes,yes,no,no,nan,2177.1687079038156,0
+one year,no,mailed check,25.1,171.0,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,170.63934006748792,0
+month-to-month,no,bank transfer (automatic),89.7,1047.7,female,1,no,no,both,fiber optic,no,no,no,no,yes,yes,no,322.4723048236944,1
+two year,yes,bank transfer (automatic),24.9,467.7,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,565.0963489942649,0
+two year,no,credit card (automatic),108.5,6991.9,male,1,yes,no,both,fiber optic,yes,yes,yes,no,yes,yes,yes,1905.246637910684,0
+two year,no,mailed check,19.6,390.4,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,626.734311952866,0
+month-to-month,yes,electronic check,91.8,5960.5,male,0,yes,yes,both,fiber optic,yes,yes,yes,no,no,no,yes,1934.2366699748738,0
+one year,yes,electronic check,93.5,4619.55,female,0,yes,no,both,fiber optic,yes,yes,yes,no,yes,no,no,1538.8377538856516,0
+month-to-month,yes,mailed check,19.75,19.75,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,17.005528310710204,0
+one year,yes,electronic check,94.65,4312.5,male,0,yes,no,both,fiber optic,no,yes,yes,no,yes,no,yes,1388.1984475673178,0
+month-to-month,no,bank transfer (automatic),20.3,246.3,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,323.849197964281,0
+one year,no,mailed check,20.05,951.55,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1417.2567463623043,0
+one year,yes,mailed check,19.7,415.9,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,595.2455997768758,0
+month-to-month,yes,credit card (automatic),35.5,552.7,female,0,yes,yes,internet,dsl,no,no,no,no,no,yes,nan,473.4419895717457,0
+month-to-month,yes,mailed check,24.05,24.05,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,17.985856286818432,1
+one year,yes,credit card (automatic),63.7,2188.5,male,0,yes,yes,both,dsl,yes,no,yes,no,no,yes,no,1080.0503930878194,0
+month-to-month,yes,bank transfer (automatic),94.2,193.8,female,0,no,yes,both,fiber optic,no,no,no,no,yes,yes,yes,46.481809759299864,1
+month-to-month,yes,credit card (automatic),99.05,5295.7,male,1,yes,no,both,fiber optic,no,no,yes,no,yes,yes,yes,1631.8437410320748,0
+month-to-month,yes,electronic check,67.25,832.3,male,0,no,no,both,dsl,yes,yes,no,yes,no,no,yes,352.04453217418654,0
+one year,no,bank transfer (automatic),19.75,624.15,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,960.48293924184,0
+month-to-month,no,bank transfer (automatic),83.85,3532.25,female,0,no,no,both,fiber optic,no,no,no,no,no,yes,yes,1204.9179650294868,0
+two year,yes,bank transfer (automatic),50.95,3521.7,male,0,yes,no,internet,dsl,yes,yes,no,yes,no,yes,nan,2027.4920529167377,0
+month-to-month,yes,electronic check,66.7,579.0,male,0,no,no,both,dsl,yes,no,yes,no,no,yes,no,231.5914371779272,0
+two year,yes,bank transfer (automatic),24.05,1709.15,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,2177.3726226354006,0
+two year,yes,bank transfer (automatic),80.8,4860.85,male,0,yes,no,both,dsl,yes,yes,yes,yes,no,yes,yes,1844.027898330352,0
+month-to-month,yes,electronic check,79.3,2414.55,male,1,yes,no,both,fiber optic,no,no,no,yes,no,no,yes,870.6232920198674,0
+one year,no,credit card (automatic),48.7,1421.75,male,0,yes,no,both,dsl,yes,no,no,no,no,no,no,808.6060374402176,0
+month-to-month,no,bank transfer (automatic),104.8,4131.95,male,0,no,no,both,fiber optic,no,no,yes,yes,yes,yes,yes,1204.4735930313768,1
+one year,no,mailed check,94.8,3131.55,male,0,yes,yes,both,fiber optic,yes,yes,yes,no,no,yes,no,962.666691672394,0
+month-to-month,no,mailed check,20.35,20.35,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,17.15046472083003,0
+one year,yes,bank transfer (automatic),96.65,1588.25,male,0,yes,no,both,fiber optic,no,no,yes,no,yes,yes,no,503.4938399266885,0
+month-to-month,yes,electronic check,53.95,53.95,male,0,no,no,both,dsl,yes,no,no,yes,no,no,no,17.485163312800324,1
+two year,no,credit card (automatic),20.55,1252.85,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1724.317458365062,0
+one year,no,mailed check,20.75,418.25,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,503.6926049779833,0
+month-to-month,no,bank transfer (automatic),67.8,842.25,female,0,no,no,both,dsl,yes,yes,no,yes,no,yes,no,383.96104122103264,0
+two year,no,bank transfer (automatic),100.65,7334.05,female,0,yes,no,both,fiber optic,yes,yes,yes,no,yes,no,yes,2178.852975583323,0
+month-to-month,yes,electronic check,79.9,260.9,male,1,no,no,both,fiber optic,no,no,no,no,yes,no,no,79.9308325687319,1
+month-to-month,yes,electronic check,97.9,315.3,female,0,no,no,both,fiber optic,no,yes,no,yes,yes,yes,no,79.58229596765165,1
+month-to-month,yes,electronic check,110.45,3655.45,female,1,no,no,both,fiber optic,no,yes,yes,yes,yes,yes,yes,989.0732542010675,1
+month-to-month,yes,credit card (automatic),74.25,639.65,female,0,no,no,both,fiber optic,yes,no,no,no,no,no,no,260.03914587987595,1
+two year,no,bank transfer (automatic),79.6,5589.45,female,0,no,no,both,dsl,yes,no,yes,yes,yes,yes,no,2118.5282364421328,0
+month-to-month,yes,bank transfer (automatic),49.65,267.35,female,0,no,no,both,dsl,no,no,no,yes,no,no,no,169.3594684730246,1
+one year,yes,electronic check,68.4,3972.25,female,0,yes,no,both,dsl,yes,no,no,yes,no,yes,yes,1754.5513643599813,0
+two year,yes,electronic check,64.7,4746.05,male,0,yes,no,internet,dsl,yes,yes,yes,yes,yes,yes,nan,2178.0692870991434,0
+month-to-month,no,credit card (automatic),28.6,973.55,female,0,no,no,internet,dsl,no,no,no,yes,no,no,nan,1112.7377390023937,1
+two year,yes,electronic check,95.1,6843.15,female,0,yes,yes,both,fiber optic,yes,yes,no,no,yes,no,yes,2177.6520710467375,0
+two year,yes,credit card (automatic),116.15,3946.9,female,0,no,yes,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,1022.0781544242643,0
+month-to-month,yes,electronic check,84.2,4146.05,male,1,yes,yes,both,fiber optic,no,yes,yes,no,no,no,yes,1538.3631180193445,1
+month-to-month,no,mailed check,75.05,202.9,female,1,no,no,both,fiber optic,no,no,yes,no,no,no,no,77.72782263452505,0
+month-to-month,no,bank transfer (automatic),99.75,1836.25,female,1,yes,no,both,fiber optic,no,no,no,yes,yes,yes,yes,535.8037552755941,1
+month-to-month,yes,bank transfer (automatic),44.65,1156.55,male,0,no,no,internet,dsl,yes,yes,no,no,no,yes,nan,777.2566548765296,0
+month-to-month,yes,mailed check,50.3,908.75,female,0,yes,no,both,dsl,no,no,no,yes,no,no,no,534.6097617165096,0
+one year,no,bank transfer (automatic),20.45,900.9,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1478.787420019506,0
+two year,no,bank transfer (automatic),85.3,6129.2,female,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,no,2176.3131331746317,0
+two year,no,mailed check,25.25,1573.05,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,1905.4281503317654,0
+month-to-month,no,electronic check,40.2,40.2,male,1,yes,no,internet,dsl,no,yes,no,no,yes,no,nan,17.20641807322495,1
+two year,no,mailed check,19.35,309.25,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,536.7797726676857,0
+two year,no,mailed check,19.4,1346.2,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,2089.7502608985983,0
+two year,no,electronic check,49.85,3210.35,female,0,yes,yes,internet,dsl,no,yes,yes,yes,no,yes,nan,1936.5469824902743,0
+month-to-month,yes,electronic check,101.3,4113.1,male,0,yes,no,both,fiber optic,no,yes,no,no,yes,yes,yes,1204.6675994580323,1
+two year,no,credit card (automatic),19.8,641.35,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,992.5030618071171,0
+one year,yes,bank transfer (automatic),103.7,5656.75,female,0,yes,yes,both,fiber optic,no,yes,yes,yes,yes,yes,no,1661.5438055093762,0
+two year,yes,bank transfer (automatic),114.65,8333.95,female,1,yes,no,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2178.5609622090915,0
+month-to-month,no,bank transfer (automatic),70.5,1165.6,female,0,no,no,both,fiber optic,no,no,no,no,no,no,no,504.2974540645848,0
+one year,no,bank transfer (automatic),90.1,2656.7,male,1,yes,no,both,fiber optic,yes,no,yes,no,no,yes,no,868.8408729613367,0
+month-to-month,yes,bank transfer (automatic),105.35,323.25,male,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,77.2325557373936,1
+two year,yes,credit card (automatic),80.3,4995.35,female,0,no,no,both,dsl,yes,yes,yes,yes,no,yes,yes,1905.988967994209,0
+month-to-month,no,electronic check,74.95,815.5,male,0,no,no,both,fiber optic,no,yes,no,no,no,no,no,320.4208118162415,1
+month-to-month,yes,mailed check,69.9,3883.3,male,0,no,no,both,dsl,yes,yes,no,yes,yes,no,no,1631.9500305847025,0
+month-to-month,no,credit card (automatic),50.7,151.3,female,0,no,no,both,dsl,no,yes,no,no,no,no,no,108.33606683660831,1
+month-to-month,yes,credit card (automatic),44.8,176.2,male,0,no,no,both,dsl,no,no,no,no,no,no,no,109.4636479160318,0
+month-to-month,yes,electronic check,91.3,91.3,female,1,no,no,both,fiber optic,no,no,no,no,yes,yes,no,16.388502181003492,1
+month-to-month,yes,electronic check,74.7,74.7,female,0,no,no,both,fiber optic,no,yes,no,no,no,no,no,17.199852821854268,1
+month-to-month,yes,electronic check,101.25,1457.25,female,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,no,442.278255967391,1
+two year,no,credit card (automatic),106.7,7009.5,female,0,yes,yes,both,fiber optic,yes,no,no,yes,yes,yes,yes,2026.5999526066541,0
+month-to-month,no,mailed check,44.9,839.65,female,0,yes,no,both,dsl,no,no,no,no,no,no,no,566.5952909048837,0
+month-to-month,yes,credit card (automatic),84.8,3626.35,male,0,yes,no,both,fiber optic,yes,no,yes,no,no,no,yes,1326.197385249825,0
+one year,no,credit card (automatic),78.75,3600.65,male,0,yes,yes,both,dsl,no,yes,yes,no,yes,yes,yes,1357.9811904324479,0
+month-to-month,yes,credit card (automatic),64.4,195.65,male,0,no,no,both,dsl,yes,no,no,yes,yes,no,no,78.02524852138784,0
+month-to-month,yes,electronic check,77.5,3807.35,female,1,yes,no,both,fiber optic,yes,no,no,no,no,no,yes,1539.861003349742,1
+two year,no,mailed check,20.15,804.85,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1203.4074340269242,0
+month-to-month,no,bank transfer (automatic),50.25,593.75,male,0,no,no,both,dsl,no,no,no,yes,no,no,no,351.13267409596835,1
+two year,yes,electronic check,80.45,3201.55,female,0,no,no,both,fiber optic,no,no,yes,yes,no,no,no,1171.2394286508943,1
+one year,yes,electronic check,115.0,7396.15,female,0,yes,no,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,1934.157769693318,0
+one year,yes,credit card (automatic),96.55,6581.9,female,1,yes,no,both,fiber optic,yes,yes,no,no,no,yes,yes,2053.3670744907336,1
+month-to-month,no,mailed check,44.45,369.3,female,0,no,no,both,dsl,no,no,no,no,no,no,no,230.61722409957932,0
+two year,yes,mailed check,89.25,4652.4,male,0,no,no,both,dsl,yes,yes,yes,yes,yes,yes,yes,1569.793478104436,0
+one year,yes,credit card (automatic),95.65,4664.2,female,0,no,no,both,fiber optic,yes,yes,yes,no,yes,no,no,1387.7986385659822,0
+month-to-month,yes,bank transfer (automatic),95.95,4456.65,male,0,yes,yes,both,fiber optic,no,yes,yes,no,no,yes,yes,1357.3233105207246,0
+month-to-month,yes,electronic check,81.3,2272.8,male,0,no,no,both,fiber optic,no,no,yes,no,no,no,yes,807.8340718765918,0
+month-to-month,yes,electronic check,75.55,166.3,female,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,46.86393092136527,1
+month-to-month,no,mailed check,89.95,1682.4,male,0,no,no,both,fiber optic,no,no,yes,yes,yes,no,no,565.301390829176,0
+two year,yes,bank transfer (automatic),63.3,4189.7,male,0,yes,yes,both,dsl,no,no,yes,no,yes,no,yes,1997.6094240670786,0
+month-to-month,yes,electronic check,94.75,759.55,male,0,yes,yes,both,fiber optic,no,no,yes,no,yes,yes,no,232.00839764246214,0
+month-to-month,no,mailed check,50.6,50.6,male,0,no,yes,both,dsl,yes,no,no,no,no,no,no,17.288812386065004,1
+one year,yes,credit card (automatic),107.2,7317.1,male,0,yes,no,both,fiber optic,yes,yes,yes,yes,no,yes,yes,2087.9175256709736,0
+month-to-month,yes,electronic check,50.1,50.1,female,0,no,no,both,dsl,no,no,no,no,no,no,yes,18.76360968139148,0
+two year,no,credit card (automatic),19.85,916.0,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1447.37284668215,0
+one year,no,bank transfer (automatic),99.5,6841.45,male,0,yes,no,both,fiber optic,no,no,yes,no,yes,yes,yes,2088.5057273153366,0
+month-to-month,no,electronic check,36.65,1315.0,male,1,no,no,internet,dsl,no,yes,yes,no,no,no,nan,1113.9841694261404,0
+month-to-month,yes,electronic check,69.8,69.8,male,0,no,no,both,fiber optic,no,no,no,no,no,no,no,15.685737664595642,1
+two year,no,mailed check,39.1,2779.5,male,0,yes,yes,internet,dsl,yes,no,yes,yes,no,no,nan,2087.0649373567,0
+month-to-month,yes,electronic check,79.75,164.5,female,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,47.804676508617604,1
+two year,yes,bank transfer (automatic),84.7,5711.05,female,0,yes,no,both,fiber optic,yes,yes,no,no,no,no,yes,2057.19561222065,0
+month-to-month,no,electronic check,78.8,78.8,female,0,yes,no,both,fiber optic,no,no,no,no,yes,no,no,18.757348270405373,1
+month-to-month,yes,mailed check,30.25,63.75,female,0,yes,yes,internet,dsl,no,yes,no,no,no,no,nan,47.328121978618526,0
+month-to-month,yes,electronic check,84.85,3645.6,male,1,no,no,both,fiber optic,no,no,no,no,yes,no,yes,1295.413724702989,0
+month-to-month,yes,electronic check,44.4,265.8,male,1,no,no,internet,dsl,no,yes,no,yes,no,yes,nan,202.968910762614,0
+one year,yes,electronic check,64.5,1985.15,female,0,yes,yes,both,dsl,no,no,yes,yes,yes,no,no,900.4981909002918,0
+two year,no,credit card (automatic),70.8,4859.95,male,0,yes,yes,both,dsl,no,yes,no,yes,no,yes,yes,2057.5327929627438,0
+two year,no,bank transfer (automatic),70.95,4741.45,male,0,yes,no,both,dsl,yes,yes,yes,no,no,yes,no,2058.1216139120615,0
+one year,yes,bank transfer (automatic),68.75,1689.45,female,0,yes,no,both,dsl,yes,no,yes,yes,no,yes,no,687.2276896597451,0
+month-to-month,yes,bank transfer (automatic),94.95,2142.8,male,0,no,no,both,fiber optic,no,yes,yes,yes,no,yes,no,658.9102875731157,0
+two year,no,mailed check,25.2,387.9,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,442.18433690006316,0
+month-to-month,yes,credit card (automatic),75.3,1702.9,female,0,yes,yes,both,fiber optic,no,no,yes,no,no,no,no,689.3529139734154,0
+one year,no,credit card (automatic),55.65,2688.85,female,0,no,no,both,dsl,no,no,no,no,no,yes,no,1386.754107060878,0
+month-to-month,yes,mailed check,64.2,143.65,male,0,yes,no,both,dsl,no,yes,no,yes,no,yes,no,49.10761002819129,0
+month-to-month,no,electronic check,59.4,1023.9,female,1,no,no,both,dsl,no,no,no,yes,yes,no,no,473.87154016140556,1
+two year,no,credit card (automatic),24.8,1874.3,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2176.8248303697455,0
+month-to-month,yes,electronic check,105.05,5624.85,female,0,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1570.1375850213906,1
+month-to-month,yes,mailed check,20.55,252.75,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,293.8316467494172,0
+two year,yes,credit card (automatic),72.6,4084.35,female,1,yes,yes,both,dsl,yes,no,no,yes,yes,yes,no,1693.4933091874755,0
+two year,yes,bank transfer (automatic),70.45,5165.7,female,0,yes,yes,both,dsl,yes,yes,yes,yes,no,no,yes,2178.9946504828026,0
+one year,yes,bank transfer (automatic),110.5,2857.6,female,1,no,no,both,fiber optic,yes,yes,yes,no,yes,yes,yes,809.9172824349635,0
+one year,yes,electronic check,100.0,5509.3,female,1,no,no,both,fiber optic,no,no,yes,no,yes,yes,yes,1662.4888787454843,1
+month-to-month,no,mailed check,19.9,19.9,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,18.327396679816875,0
+two year,yes,credit card (automatic),38.6,2345.55,male,0,yes,no,internet,dsl,yes,yes,no,yes,no,no,nan,1874.1957229512675,0
+month-to-month,yes,mailed check,84.05,2909.95,male,0,yes,yes,both,fiber optic,no,no,yes,no,yes,no,no,1021.9042368736464,0
+month-to-month,no,electronic check,55.3,875.35,male,0,no,no,both,dsl,no,yes,no,no,no,no,yes,474.0237018838386,0
+two year,no,bank transfer (automatic),19.8,726.1,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1113.6310555875098,0
+one year,no,mailed check,19.8,350.1,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,628.955150215006,0
+two year,no,bank transfer (automatic),39.6,2424.5,male,0,no,no,internet,dsl,yes,yes,yes,no,no,no,nan,1813.2028946601451,0
+month-to-month,yes,electronic check,108.75,6871.7,female,0,yes,no,both,fiber optic,no,yes,yes,yes,yes,yes,yes,1903.89205690476,0
+month-to-month,yes,electronic check,75.55,2425.4,male,1,yes,no,both,fiber optic,no,no,no,no,no,no,yes,1022.403278070776,0
+month-to-month,yes,bank transfer (automatic),25.2,102.5,male,1,no,no,internet,dsl,no,no,no,no,no,no,nan,108.6637423790172,1
+one year,yes,mailed check,65.4,2498.4,male,0,no,no,both,dsl,no,yes,no,yes,no,yes,no,1081.7315535795249,1
+two year,no,mailed check,74.05,3496.3,female,0,no,no,both,dsl,yes,yes,no,yes,no,yes,yes,1417.8584733781995,0
+two year,no,mailed check,67.25,4234.15,male,0,yes,no,both,dsl,no,yes,no,yes,no,yes,yes,1903.3277088454693,0
+two year,no,mailed check,24.7,571.75,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,715.9958677086973,0
+month-to-month,no,electronic check,54.5,2076.05,female,0,yes,yes,both,dsl,yes,yes,no,no,no,no,no,1144.0161069098663,0
+two year,yes,credit card (automatic),90.05,5965.95,female,0,no,no,both,dsl,yes,yes,yes,yes,yes,yes,yes,1997.5520330795425,0
+two year,yes,bank transfer (automatic),21.3,1041.8,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1419.5341328790641,0
+month-to-month,no,bank transfer (automatic),80.85,866.45,male,0,yes,no,both,fiber optic,yes,no,no,yes,no,no,no,351.83996655321965,1
+one year,no,bank transfer (automatic),101.25,5301.1,female,0,yes,yes,both,fiber optic,no,no,yes,no,yes,yes,yes,1570.2986227258962,0
+month-to-month,no,electronic check,95.5,3418.2,male,0,no,no,both,fiber optic,no,no,yes,yes,yes,no,yes,1053.3694164928254,0
+two year,yes,bank transfer (automatic),75.15,3822.45,male,1,yes,yes,both,dsl,yes,yes,yes,no,no,yes,yes,1510.3990075154522,0
+two year,no,bank transfer (automatic),69.85,4003.0,female,1,no,no,both,dsl,yes,no,yes,yes,yes,no,no,1722.7457045717176,0
+month-to-month,no,credit card (automatic),20.1,221.35,female,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,321.7038670107286,1
+month-to-month,yes,electronic check,100.0,1534.75,female,0,yes,no,both,fiber optic,no,yes,no,no,yes,yes,yes,474.1400758642441,1
+one year,no,electronic check,54.6,934.8,male,0,yes,no,internet,dsl,no,no,yes,yes,yes,yes,nan,505.8975386208548,0
+month-to-month,yes,electronic check,80.55,80.55,male,0,yes,no,both,fiber optic,no,no,no,no,yes,no,no,17.826113262691862,1
+two year,yes,credit card (automatic),25.7,1188.2,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1297.5777011909156,0
+month-to-month,yes,electronic check,49.2,571.15,male,0,yes,yes,both,dsl,yes,no,no,no,no,no,no,350.2169491854033,0
+month-to-month,yes,electronic check,74.85,708.2,female,0,no,no,both,fiber optic,yes,no,no,no,no,no,no,262.49919978780684,0
+one year,no,mailed check,20.3,475.1,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,657.5314025173296,0
+two year,yes,credit card (automatic),85.45,6227.5,male,0,yes,no,both,dsl,no,yes,yes,yes,yes,yes,yes,2176.593005921398,0
+month-to-month,yes,electronic check,91.55,1540.05,male,1,yes,no,both,fiber optic,no,no,yes,yes,no,yes,no,474.60869656911626,0
+month-to-month,yes,electronic check,94.3,3953.15,male,1,yes,no,both,fiber optic,no,yes,no,yes,yes,no,yes,1297.6051663392848,0
+month-to-month,yes,mailed check,20.85,20.85,female,1,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,18.842748002858556,1
+one year,no,bank transfer (automatic),19.7,1341.5,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,2118.0691182168694,0
+one year,no,mailed check,60.3,2448.5,male,0,yes,yes,internet,dsl,no,yes,yes,yes,yes,yes,nan,1205.9582639946505,0
+one year,yes,credit card (automatic),81.2,4965.1,female,0,yes,no,both,fiber optic,no,no,no,yes,no,no,yes,1904.195497619641,0
+month-to-month,no,electronic check,98.55,1008.55,male,0,no,no,both,fiber optic,yes,no,no,no,yes,yes,yes,288.0108253276541,1
+one year,yes,bank transfer (automatic),80.05,4042.2,female,0,yes,yes,both,dsl,yes,yes,yes,yes,no,yes,yes,1508.8634828370712,0
+two year,yes,credit card (automatic),25.3,116.95,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,109.45628085750752,0
+two year,yes,bank transfer (automatic),25.3,1748.55,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,1965.625474124141,0
+month-to-month,yes,mailed check,24.6,190.1,male,0,no,no,internet,dsl,no,no,no,no,no,no,nan,263.01807601934263,0
+month-to-month,yes,electronic check,89.2,2698.35,male,0,yes,yes,both,fiber optic,no,no,yes,no,no,yes,yes,870.1456305497048,1
+month-to-month,yes,electronic check,49.4,184.4,male,0,no,yes,both,dsl,yes,no,no,no,no,no,no,108.29441942857788,1
+one year,yes,bank transfer (automatic),106.85,7677.4,female,1,yes,no,both,fiber optic,yes,yes,no,no,yes,yes,yes,2177.6385115816333,0
+one year,no,bank transfer (automatic),19.55,608.5,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,900.633086245137,0
+one year,yes,mailed check,24.85,962.25,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1235.6693466056017,0
+one year,yes,mailed check,73.75,1756.6,female,0,no,no,both,dsl,no,no,no,yes,yes,yes,yes,689.9286970200228,0
+two year,yes,credit card (automatic),72.0,4284.2,female,0,yes,no,both,dsl,yes,yes,yes,no,yes,no,no,1874.085875789539,0
+month-to-month,yes,electronic check,49.4,106.55,female,0,no,no,both,dsl,no,no,no,no,no,no,yes,48.126346136520084,1
+month-to-month,no,credit card (automatic),21.05,139.75,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,231.0742832611307,0
+month-to-month,yes,bank transfer (automatic),69.5,1800.05,female,0,no,no,both,dsl,yes,yes,no,no,yes,no,yes,778.2654344052335,0
+month-to-month,no,mailed check,19.85,63.75,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,79.0544196672172,1
+month-to-month,yes,credit card (automatic),88.15,3973.2,female,0,no,no,both,fiber optic,no,yes,yes,no,yes,no,no,1326.105101841105,0
+one year,yes,mailed check,62.1,1096.65,male,0,yes,yes,both,dsl,yes,no,no,yes,no,no,yes,503.09764917020715,0
+month-to-month,yes,electronic check,85.4,401.1,male,0,yes,no,both,fiber optic,no,yes,no,yes,no,no,yes,139.74456167679529,1
+month-to-month,yes,electronic check,104.15,2494.65,female,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,715.5346441287338,0
+one year,no,bank transfer (automatic),83.0,5243.05,female,1,no,no,both,dsl,yes,yes,yes,yes,yes,no,yes,1905.2916166247876,0
+two year,no,credit card (automatic),81.0,5750.0,male,0,yes,yes,both,dsl,yes,yes,yes,yes,no,yes,yes,2177.4102977339276,0
+month-to-month,yes,mailed check,19.2,19.2,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,18.118177810033956,0
+two year,no,electronic check,95.8,5655.45,female,0,no,no,both,fiber optic,no,no,yes,no,yes,yes,no,1784.288768918569,0
+two year,yes,mailed check,38.8,603.0,female,0,no,no,internet,dsl,no,yes,no,no,no,yes,nan,443.91806497613317,0
+month-to-month,yes,credit card (automatic),99.85,1992.55,female,0,no,no,both,fiber optic,no,yes,no,no,yes,yes,yes,626.7038035084788,0
+two year,yes,mailed check,92.15,6480.9,male,0,yes,yes,both,fiber optic,no,yes,no,yes,yes,no,no,2089.5762707792474,0
+month-to-month,no,mailed check,20.75,44.2,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,48.017885527905534,0
+month-to-month,yes,bank transfer (automatic),46.3,2546.85,male,0,no,no,internet,dsl,yes,yes,no,no,no,yes,nan,1600.8585971780278,0
+month-to-month,yes,mailed check,70.15,70.15,female,0,no,no,both,fiber optic,no,no,no,no,no,no,no,18.607494994402373,1
+month-to-month,yes,electronic check,73.9,280.85,male,0,no,no,both,fiber optic,no,no,yes,no,no,no,no,108.04918554271975,1
+month-to-month,yes,bank transfer (automatic),25.05,152.95,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,200.59593774864885,0
+month-to-month,yes,mailed check,89.8,1129.1,female,0,no,no,both,fiber optic,no,no,no,no,yes,yes,no,413.05514982869374,1
+two year,no,mailed check,40.55,590.35,male,0,yes,yes,internet,dsl,yes,yes,no,yes,no,no,nan,383.0177279357174,0
+month-to-month,no,mailed check,55.05,55.05,male,0,no,no,both,dsl,no,no,yes,yes,no,no,no,18.637323634078513,0
+month-to-month,yes,electronic check,95.7,4816.7,male,1,no,no,both,fiber optic,no,no,no,no,yes,yes,yes,1509.521657073032,1
+month-to-month,yes,electronic check,35.65,425.1,male,0,no,no,internet,dsl,no,yes,no,yes,no,no,nan,324.23538590479683,0
+month-to-month,yes,electronic check,51.7,3005.8,male,0,no,no,internet,dsl,no,no,no,yes,yes,yes,nan,1784.8160088292848,0
+month-to-month,yes,credit card (automatic),58.35,740.55,female,0,yes,yes,both,dsl,no,no,yes,no,yes,no,no,351.3378587713945,0
+month-to-month,no,bank transfer (automatic),70.45,849.1,male,1,yes,no,both,fiber optic,no,no,no,no,no,no,no,383.8291488059881,0
+one year,no,electronic check,24.6,592.65,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,715.7412151695328,0
+month-to-month,no,bank transfer (automatic),91.7,3479.05,male,0,yes,no,both,fiber optic,yes,no,no,no,yes,no,yes,1144.7930110488617,0
+month-to-month,yes,electronic check,76.5,837.95,female,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,319.5968309484936,1
+month-to-month,yes,electronic check,105.9,6396.45,female,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1813.66996977391,1
+month-to-month,yes,electronic check,100.5,4707.1,female,0,yes,no,both,fiber optic,no,no,yes,no,yes,yes,yes,1418.7941705539195,0
+month-to-month,yes,mailed check,45.85,105.6,female,0,no,no,both,dsl,no,no,no,no,no,no,no,48.97658112741471,0
+month-to-month,yes,bank transfer (automatic),46.6,87.9,male,0,no,no,both,dsl,no,no,no,no,no,no,no,48.33468556458183,0
+two year,yes,bank transfer (automatic),62.5,4136.4,female,0,no,no,internet,dsl,yes,yes,yes,yes,yes,yes,nan,1997.5714074279224,0
+month-to-month,yes,electronic check,80.1,336.15,male,0,no,no,both,fiber optic,yes,no,no,no,no,no,yes,109.05826097338982,0
+one year,no,mailed check,20.1,579.4,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,993.0609854901078,0
+month-to-month,yes,electronic check,108.9,3625.2,male,1,yes,yes,both,fiber optic,no,yes,yes,yes,yes,yes,yes,1022.7975720891083,0
+month-to-month,no,mailed check,19.9,400.3,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,657.2147265514586,0
+month-to-month,yes,mailed check,19.8,58.15,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,76.99925536973787,1
+month-to-month,no,mailed check,20.35,76.35,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,108.5063946508976,1
+one year,no,mailed check,20.35,393.15,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,597.2720802468926,0
+one year,no,mailed check,19.95,310.6,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,503.5587425672661,0
+month-to-month,no,bank transfer (automatic),69.0,994.8,female,0,no,yes,both,fiber optic,no,no,no,no,no,no,no,442.0376367456993,1
+two year,no,bank transfer (automatic),25.3,1554.9,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1844.5786754466508,0
+two year,no,bank transfer (automatic),115.15,8349.45,male,0,yes,no,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2178.4894842976564,0
+month-to-month,no,electronic check,89.45,853.1,female,0,yes,no,both,fiber optic,no,no,no,no,yes,yes,no,260.0935654632033,1
+month-to-month,yes,electronic check,79.7,586.05,female,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,199.94960469773667,1
+one year,no,credit card (automatic),20.05,237.7,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,322.468059777605,0
+one year,no,credit card (automatic),19.65,928.4,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1569.4209624369314,0
+one year,no,bank transfer (automatic),100.0,1888.65,male,0,yes,yes,both,fiber optic,no,yes,no,yes,yes,yes,no,565.9038992406166,1
+two year,yes,credit card (automatic),19.2,1123.65,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1873.7818137435663,0
+month-to-month,yes,credit card (automatic),40.1,293.3,female,0,no,no,internet,dsl,no,yes,no,no,no,yes,nan,199.69675613431613,1
+two year,no,bank transfer (automatic),65.6,2313.8,male,0,no,no,both,dsl,yes,yes,yes,yes,no,no,no,1112.411193861059,0
+one year,yes,mailed check,20.0,416.45,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,595.4918706715813,0
+two year,yes,credit card (automatic),92.9,3379.25,female,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,yes,1081.7370659415517,0
+month-to-month,no,mailed check,19.6,93.45,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,109.59693859497644,0
+month-to-month,yes,bank transfer (automatic),105.35,3465.05,female,1,no,yes,both,fiber optic,no,yes,yes,no,yes,yes,yes,991.8830381863864,0
+two year,yes,credit card (automatic),55.25,3119.9,male,0,yes,yes,both,dsl,no,no,yes,yes,no,no,no,1663.0113277341645,0
+month-to-month,yes,electronic check,34.7,34.7,female,0,no,no,internet,dsl,no,no,no,no,yes,no,nan,16.96389775131236,1
+month-to-month,yes,electronic check,50.75,712.75,male,0,no,no,internet,dsl,no,no,yes,no,yes,yes,nan,412.0879565473691,1
+month-to-month,no,bank transfer (automatic),29.45,161.45,female,0,no,no,internet,dsl,yes,no,no,no,no,no,nan,169.2370847238916,0
+month-to-month,no,electronic check,50.15,50.15,female,0,no,no,both,dsl,yes,no,no,no,no,no,no,18.814451466103357,0
+month-to-month,yes,electronic check,94.0,181.7,male,1,no,no,both,fiber optic,no,no,no,no,yes,yes,yes,47.998477304573704,1
+month-to-month,no,electronic check,20.55,20.55,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,15.364641049077864,1
+month-to-month,yes,electronic check,50.8,3027.4,female,0,no,no,internet,dsl,no,yes,no,no,yes,yes,nan,1812.4961282464467,1
+one year,yes,electronic check,98.9,1064.95,male,0,no,no,both,fiber optic,yes,no,yes,no,yes,yes,no,292.3984423712222,0
+month-to-month,no,mailed check,40.0,223.45,male,0,no,no,internet,dsl,yes,no,yes,yes,no,no,nan,140.1780521736991,1
+month-to-month,no,mailed check,20.55,20.55,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,17.864587805656715,1
+two year,yes,electronic check,84.95,4984.85,male,0,no,yes,both,dsl,yes,no,yes,yes,yes,yes,yes,1811.544853941117,0
+month-to-month,yes,credit card (automatic),95.7,2338.35,male,0,yes,no,both,fiber optic,no,no,no,yes,yes,yes,no,748.0143991558866,0
+two year,no,credit card (automatic),61.45,2302.35,male,0,no,yes,both,dsl,yes,yes,no,yes,no,no,no,1112.6242081537773,0
+month-to-month,yes,electronic check,70.15,70.15,female,1,no,no,both,fiber optic,no,no,no,no,no,no,no,16.434220134973913,1
+month-to-month,no,bank transfer (automatic),19.45,159.2,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,231.42608370440442,0
+month-to-month,no,mailed check,43.8,2106.05,female,1,no,no,both,dsl,no,no,no,no,no,no,no,1478.0322171022071,0
+month-to-month,yes,electronic check,60.05,1616.15,female,0,yes,yes,both,dsl,no,yes,no,yes,no,no,yes,776.0117642947639,1
+one year,yes,bank transfer (automatic),40.6,2588.95,male,0,no,yes,internet,dsl,yes,yes,no,yes,no,no,nan,1904.617184079598,0
+month-to-month,yes,mailed check,66.7,1077.05,male,0,yes,yes,both,dsl,no,yes,yes,yes,no,no,yes,503.63450559183457,0
+one year,yes,bank transfer (automatic),90.1,2598.95,female,0,yes,yes,both,fiber optic,no,no,no,no,yes,yes,no,837.8547882827926,1
+month-to-month,no,electronic check,40.75,359.4,female,0,no,no,internet,dsl,no,yes,no,no,no,yes,nan,262.8976592749225,0
+two year,no,credit card (automatic),67.2,4671.7,male,0,no,yes,internet,dsl,yes,yes,yes,yes,yes,yes,nan,2176.266605575711,0
+month-to-month,yes,credit card (automatic),80.45,5224.35,female,1,no,no,both,fiber optic,no,yes,no,no,no,no,yes,1996.6816386722269,1
+month-to-month,yes,credit card (automatic),80.65,633.3,female,1,yes,no,both,fiber optic,no,yes,no,no,no,no,yes,232.09569840110913,1
+month-to-month,yes,credit card (automatic),90.0,1527.35,female,0,no,no,both,fiber optic,no,yes,no,no,yes,no,yes,533.8392298155322,1
+month-to-month,yes,credit card (automatic),95.0,3008.15,female,0,yes,no,both,fiber optic,no,no,yes,yes,no,yes,yes,991.634870246234,0
+one year,no,mailed check,30.15,927.65,female,0,no,no,internet,dsl,yes,no,no,no,no,no,nan,961.493487728596,0
+month-to-month,no,mailed check,61.65,1393.6,male,0,no,no,both,dsl,no,no,yes,no,no,yes,no,628.8838976805923,0
+month-to-month,yes,credit card (automatic),103.65,5676.65,female,0,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1662.3183293931374,0
+two year,no,mailed check,89.85,6293.45,female,1,no,no,both,dsl,yes,yes,yes,yes,yes,yes,yes,2149.9280634774223,0
+month-to-month,yes,mailed check,20.0,40.9,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,48.687112865240636,0
+month-to-month,yes,electronic check,99.95,3186.65,female,1,no,no,both,fiber optic,no,yes,no,no,yes,yes,yes,931.7102540898265,1
+month-to-month,yes,electronic check,98.55,1842.8,male,1,no,no,both,fiber optic,no,no,yes,no,yes,yes,yes,595.8689131953456,1
+month-to-month,yes,electronic check,70.55,70.55,female,1,no,no,both,fiber optic,no,no,no,no,no,no,no,16.78890126202777,1
+month-to-month,yes,credit card (automatic),69.5,2625.25,male,0,no,no,both,fiber optic,no,no,no,no,no,no,no,1144.0447955639042,0
+month-to-month,yes,mailed check,33.9,298.45,male,0,no,no,internet,dsl,no,no,no,no,no,yes,nan,291.7862825134237,1
+two year,no,credit card (automatic),115.25,6758.45,female,0,yes,yes,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,1812.3838457181973,0
+month-to-month,yes,electronic check,85.45,4874.7,female,1,yes,no,both,fiber optic,no,yes,yes,no,no,no,yes,1661.1186142641207,1
+month-to-month,yes,electronic check,73.65,1463.5,male,1,yes,no,both,fiber optic,no,yes,no,no,no,no,no,595.4793524074477,1
+one year,yes,credit card (automatic),99.75,5608.4,female,0,yes,yes,both,fiber optic,no,yes,yes,yes,no,yes,yes,1693.2094453980267,0
+month-to-month,yes,credit card (automatic),90.4,5099.15,male,0,yes,yes,both,fiber optic,no,no,yes,no,yes,no,yes,1661.8381979200735,0
+month-to-month,yes,electronic check,50.25,2997.45,male,1,yes,no,internet,dsl,no,yes,no,no,yes,yes,nan,1785.6547378075138,0
+month-to-month,yes,credit card (automatic),78.95,2839.65,female,0,yes,no,both,fiber optic,no,no,yes,no,no,no,yes,1111.9409535484144,1
+two year,yes,credit card (automatic),114.05,8289.2,male,0,yes,yes,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2178.2805531601052,0
+one year,yes,electronic check,94.75,5276.1,female,0,yes,no,both,fiber optic,yes,no,no,no,yes,yes,no,1662.6029640853708,0
+one year,yes,electronic check,105.2,5637.85,male,0,yes,yes,both,fiber optic,no,yes,no,yes,yes,yes,yes,1630.7049066917289,0
+two year,yes,bank transfer (automatic),68.05,4158.25,male,0,yes,yes,both,dsl,yes,yes,yes,yes,no,no,no,1842.9020446989716,0
+month-to-month,yes,electronic check,69.35,451.1,male,0,yes,no,both,fiber optic,no,no,no,no,no,no,no,200.83843407272911,1
+month-to-month,no,mailed check,75.1,1151.55,male,0,yes,yes,both,fiber optic,yes,no,no,no,no,no,no,444.652424896038,0
+month-to-month,yes,credit card (automatic),59.45,2136.9,female,0,yes,yes,both,dsl,yes,yes,no,no,no,no,yes,1054.819644496633,0
+two year,no,bank transfer (automatic),76.95,4543.95,male,0,yes,yes,both,dsl,no,yes,no,yes,yes,yes,no,1811.8569518102743,0
+month-to-month,yes,electronic check,20.4,251.65,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,382.33317587046906,0
+month-to-month,yes,electronic check,70.1,659.65,male,0,yes,no,both,fiber optic,no,no,no,no,no,no,no,291.88924682498134,1
+month-to-month,yes,bank transfer (automatic),25.4,546.85,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,746.4795148867514,0
+month-to-month,yes,mailed check,75.9,866.4,male,0,no,no,both,fiber optic,no,yes,no,no,no,no,no,322.50590182018266,0
+month-to-month,yes,mailed check,43.25,219.0,male,0,no,no,internet,dsl,yes,yes,yes,yes,no,no,nan,140.76918426662507,1
+month-to-month,yes,bank transfer (automatic),83.35,4065.0,male,0,yes,no,both,fiber optic,no,yes,yes,no,no,no,yes,1415.3976342410208,1
+month-to-month,yes,credit card (automatic),24.1,439.2,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,567.4203239949089,0
+two year,no,bank transfer (automatic),20.1,1460.85,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,2178.4072147035104,0
+month-to-month,no,credit card (automatic),90.0,190.05,male,0,yes,yes,both,fiber optic,no,no,yes,yes,no,yes,no,46.276828680760545,1
+two year,no,credit card (automatic),116.2,7752.3,male,0,no,no,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2026.1864164361896,1
+one year,no,bank transfer (automatic),20.35,369.6,female,1,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,535.6404937876569,0
+month-to-month,yes,electronic check,106.3,4443.45,female,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1234.9234015699037,1
+one year,no,mailed check,103.05,5153.5,female,0,yes,yes,both,fiber optic,no,no,yes,yes,yes,yes,no,1508.4155476306764,0
+month-to-month,yes,mailed check,20.5,104.3,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,140.070422009198,0
+one year,yes,mailed check,110.55,7610.1,male,1,yes,no,both,fiber optic,yes,no,yes,yes,yes,yes,yes,2089.764208208112,0
+month-to-month,yes,bank transfer (automatic),60.05,1236.15,male,1,no,no,both,dsl,no,no,yes,no,yes,no,no,624.5074300783293,1
+month-to-month,yes,credit card (automatic),50.95,207.35,male,1,no,no,internet,dsl,no,yes,no,no,yes,yes,nan,108.68087673219448,0
+one year,no,bank transfer (automatic),80.1,2603.3,male,0,no,no,both,fiber optic,yes,no,no,no,no,no,yes,992.8298522707167,0
+month-to-month,yes,credit card (automatic),58.6,939.7,male,0,no,no,both,dsl,no,yes,no,yes,no,no,yes,444.66768498501244,1
+two year,no,bank transfer (automatic),20.15,1337.5,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,2088.465685989827,0
+month-to-month,yes,mailed check,84.6,84.6,male,0,no,no,both,fiber optic,yes,no,no,no,no,yes,no,18.884948674285543,1
+month-to-month,yes,electronic check,56.0,764.55,female,0,no,yes,both,dsl,yes,yes,no,no,no,no,no,382.5832370197545,0
+month-to-month,no,mailed check,24.0,24.0,female,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,18.079244971324954,0
+two year,no,credit card (automatic),60.8,3603.45,female,0,yes,no,internet,dsl,no,yes,yes,yes,yes,yes,nan,1813.2368398484275,0
+month-to-month,yes,credit card (automatic),48.95,1880.85,male,0,no,no,internet,dsl,yes,yes,no,yes,yes,no,nan,1173.4149116591345,1
+one year,yes,mailed check,20.55,583.3,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,809.3173720412564,0
+one year,no,credit card (automatic),39.65,1798.65,female,0,no,no,internet,dsl,yes,yes,no,yes,no,no,nan,1418.1034059231847,0
+two year,no,credit card (automatic),20.4,1090.6,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1632.7940397734842,0
+month-to-month,yes,electronic check,78.95,494.95,male,0,no,no,both,fiber optic,yes,yes,no,no,no,no,no,170.20320979697468,0
+month-to-month,yes,electronic check,96.4,1581.2,female,1,no,no,both,fiber optic,no,no,no,no,yes,yes,yes,472.1507234912867,1
+month-to-month,no,electronic check,99.7,4747.2,female,1,yes,no,both,fiber optic,no,no,yes,no,yes,yes,yes,1417.2876507007193,0
+month-to-month,yes,electronic check,94.45,498.1,male,0,yes,no,both,fiber optic,no,no,yes,no,yes,yes,no,139.64780624238733,1
+one year,yes,electronic check,68.7,1416.2,male,0,no,no,both,dsl,no,yes,no,yes,yes,no,yes,597.705218846522,0
+one year,yes,electronic check,97.95,4917.9,male,0,yes,yes,both,fiber optic,no,no,no,yes,yes,yes,yes,1478.3930023866053,0
+month-to-month,no,electronic check,59.2,59.2,female,0,no,yes,both,dsl,no,no,yes,no,no,yes,no,17.200780324028983,1
+one year,yes,electronic check,103.95,6423.0,female,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1843.5760644877994,0
+two year,no,mailed check,20.0,1149.65,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1630.1567148244594,0
+month-to-month,yes,bank transfer (automatic),72.95,3829.75,male,1,no,no,both,fiber optic,no,no,no,no,no,no,yes,1569.6570015323514,0
+month-to-month,yes,electronic check,99.15,3615.6,female,0,no,no,both,fiber optic,no,yes,no,no,yes,yes,yes,1080.8403289540774,1
+month-to-month,yes,bank transfer (automatic),49.9,2782.4,female,0,yes,no,internet,dsl,yes,no,yes,yes,no,yes,nan,1722.1626411617133,0
+one year,yes,credit card (automatic),54.4,957.1,female,0,yes,yes,both,dsl,no,no,yes,yes,no,no,no,534.0819139764782,0
+month-to-month,yes,mailed check,79.0,1902.0,male,0,no,no,both,dsl,yes,yes,no,yes,yes,yes,no,748.3783660178611,0
+month-to-month,yes,electronic check,70.35,120.25,female,0,yes,no,both,fiber optic,no,no,no,no,no,no,no,47.838722384026156,0
+month-to-month,yes,credit card (automatic),99.3,918.75,male,0,no,no,both,fiber optic,no,yes,no,no,yes,yes,yes,262.9160348647151,0
+month-to-month,no,electronic check,71.35,71.35,female,0,no,no,both,fiber optic,no,no,no,no,no,no,no,17.96168275954102,1
+one year,no,credit card (automatic),55.2,864.55,male,0,no,yes,both,dsl,no,no,yes,yes,no,no,no,443.78109126453603,0
+month-to-month,no,mailed check,20.15,20.15,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,16.379001502624966,0
+two year,no,credit card (automatic),19.7,1415.85,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,2150.4771759194555,0
+month-to-month,no,electronic check,54.25,2538.2,male,0,yes,yes,both,dsl,no,yes,no,no,no,no,yes,1418.5003928133513,0
+two year,no,credit card (automatic),19.4,958.15,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1387.8811400903408,0
+one year,yes,credit card (automatic),20.25,814.75,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1143.0158759140832,0
+month-to-month,no,credit card (automatic),88.6,2888.7,female,0,yes,yes,both,fiber optic,no,yes,yes,yes,no,no,yes,991.854992515156,0
+two year,yes,mailed check,19.85,1158.85,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1753.700362851634,0
+month-to-month,yes,credit card (automatic),49.25,49.25,male,1,yes,yes,both,dsl,no,no,no,yes,no,no,no,17.202842269270825,1
+one year,yes,credit card (automatic),100.7,6018.65,female,0,yes,yes,both,fiber optic,yes,yes,yes,no,no,yes,yes,1842.7820464762874,0
+one year,yes,electronic check,54.3,2317.1,male,0,yes,yes,internet,dsl,no,no,yes,yes,yes,yes,nan,1327.485469660486,0
+month-to-month,no,electronic check,76.45,1117.55,male,0,no,no,both,fiber optic,no,no,yes,no,no,no,no,414.7877978621339,0
+month-to-month,no,mailed check,19.65,60.65,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,79.28989153312709,0
+two year,no,credit card (automatic),25.6,1784.9,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2026.4760324365905,0
+one year,yes,mailed check,89.1,3342.0,female,0,no,no,both,fiber optic,no,no,no,no,yes,yes,no,1144.184273258685,0
+month-to-month,yes,electronic check,75.15,525.0,female,0,no,no,both,fiber optic,no,no,yes,no,no,no,no,202.11299400184356,0
+month-to-month,no,mailed check,25.4,25.4,female,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,17.956990609389788,0
+one year,yes,credit card (automatic),111.25,5916.45,female,0,no,no,both,fiber optic,yes,yes,no,yes,yes,yes,yes,1571.0209821174974,1
+one year,yes,mailed check,98.3,6066.55,male,1,yes,no,both,fiber optic,no,yes,yes,yes,yes,no,yes,1844.372849997721,0
+month-to-month,yes,electronic check,70.05,70.05,male,1,no,no,both,fiber optic,no,no,no,no,no,no,no,16.155995146975226,0
+month-to-month,no,electronic check,35.9,35.9,male,0,no,no,internet,dsl,no,no,no,no,no,yes,nan,17.265439884745636,1
+month-to-month,yes,electronic check,90.25,2755.35,male,0,no,no,both,fiber optic,no,no,no,no,yes,yes,no,900.4173578032787,1
+one year,yes,credit card (automatic),105.4,7035.6,female,1,yes,no,both,fiber optic,yes,yes,yes,yes,no,yes,yes,2028.0298207738977,0
+month-to-month,yes,credit card (automatic),90.55,2929.75,male,0,yes,no,both,fiber optic,yes,yes,no,yes,no,no,yes,931.3726031394715,0
+two year,no,bank transfer (automatic),25.25,1728.2,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2058.7579079338257,0
+one year,no,electronic check,104.1,7040.85,male,0,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,2027.9131020252887,1
+two year,no,credit card (automatic),20.4,905.55,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1327.5187388753657,0
+month-to-month,no,bank transfer (automatic),20.35,697.65,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1113.4982278891432,0
+two year,no,bank transfer (automatic),90.45,6565.85,male,0,yes,yes,both,fiber optic,no,yes,yes,yes,no,no,yes,2176.5219247710083,0
+two year,yes,credit card (automatic),102.5,4904.25,female,0,no,no,both,fiber optic,yes,no,yes,yes,yes,yes,no,1446.3272769191287,0
+month-to-month,yes,electronic check,91.15,3369.25,male,0,no,no,both,fiber optic,yes,no,no,no,yes,no,yes,1111.8828664141151,0
+one year,no,electronic check,24.3,1261.7,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1693.2298416066844,0
+month-to-month,yes,credit card (automatic),18.9,347.65,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,596.3437892778876,0
+two year,yes,bank transfer (automatic),109.0,7661.8,female,0,yes,yes,both,fiber optic,yes,yes,yes,no,yes,yes,yes,2150.159823713785,0
+two year,no,mailed check,21.25,711.9,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,899.213303406551,0
+one year,no,credit card (automatic),50.3,2878.55,male,0,yes,no,both,dsl,no,no,yes,no,no,no,no,1752.464852276941,0
+month-to-month,yes,electronic check,30.4,78.65,female,1,no,no,internet,dsl,no,no,yes,no,no,no,nan,47.35818590210631,1
+two year,no,bank transfer (automatic),68.75,4447.55,male,0,no,no,both,dsl,yes,yes,yes,yes,no,no,yes,1995.2497934065752,0
+two year,yes,credit card (automatic),54.95,3772.5,female,0,yes,yes,internet,dsl,no,yes,yes,no,yes,yes,nan,2089.1713748522598,0
+one year,yes,electronic check,39.1,1096.6,female,1,yes,yes,internet,dsl,no,yes,no,no,no,yes,nan,840.7578891689601,0
+two year,no,mailed check,25.1,1697.7,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1997.7129263281072,0
+one year,no,mailed check,64.8,1175.6,male,0,yes,no,both,dsl,yes,yes,no,no,no,yes,no,503.806545636748,0
+month-to-month,no,mailed check,19.65,19.65,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,16.875093355803354,0
+month-to-month,yes,mailed check,20.45,20.45,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,18.987634002103974,0
+month-to-month,no,electronic check,76.4,160.8,female,0,no,no,both,dsl,no,no,yes,yes,yes,yes,no,48.55053916783155,1
+month-to-month,no,mailed check,19.65,391.7,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,535.7993162909665,0
+month-to-month,yes,electronic check,51.35,262.3,male,0,no,no,both,dsl,no,yes,no,no,no,no,no,139.92380960482495,0
+two year,no,bank transfer (automatic),86.65,6224.8,male,0,no,no,both,dsl,yes,yes,yes,yes,yes,yes,yes,2176.4985996188193,0
+one year,yes,electronic check,68.75,3482.85,male,0,yes,yes,both,dsl,no,yes,yes,yes,yes,no,no,1569.8290641842295,0
+one year,yes,electronic check,104.25,6860.6,male,0,no,no,both,fiber optic,no,yes,no,yes,yes,yes,yes,1997.5059752084437,0
+two year,no,bank transfer (automatic),20.05,1423.65,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,2177.020395017714,0
+month-to-month,yes,electronic check,80.6,2244.95,female,0,no,no,both,fiber optic,no,no,no,no,no,yes,no,839.7567824675152,0
+month-to-month,yes,electronic check,45.05,770.6,male,1,no,no,both,dsl,no,no,no,no,no,no,no,503.4220483549066,1
+one year,yes,mailed check,96.9,6314.35,female,0,yes,no,both,fiber optic,yes,no,no,yes,yes,yes,no,1934.5152689848064,0
+one year,yes,electronic check,71.75,4374.55,male,1,no,no,both,dsl,yes,yes,no,no,no,yes,yes,1813.1060933196302,0
+month-to-month,yes,credit card (automatic),90.95,1612.2,male,0,no,no,both,fiber optic,no,yes,yes,no,no,yes,no,504.4238869653319,0
+two year,no,mailed check,20.6,1093.0,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1813.5806376100327,0
+one year,no,credit card (automatic),53.15,1930.9,male,0,yes,no,internet,dsl,yes,no,yes,no,yes,yes,nan,1052.3499999557137,0
+two year,yes,credit card (automatic),64.15,4254.1,female,0,yes,yes,both,dsl,yes,no,yes,yes,no,no,yes,2088.863647522184,0
+month-to-month,yes,electronic check,98.7,973.25,female,0,no,no,both,fiber optic,yes,no,no,no,yes,yes,yes,293.7439919893141,1
+two year,yes,credit card (automatic),104.15,7365.3,male,0,yes,no,both,fiber optic,no,yes,no,yes,yes,yes,yes,2150.3592698340053,0
+two year,yes,electronic check,99.65,5941.05,female,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,no,1813.8841352207598,0
+month-to-month,yes,electronic check,74.95,825.7,male,0,yes,no,both,fiber optic,no,no,no,no,no,no,yes,319.1458267755228,1
+one year,no,electronic check,19.8,160.05,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,231.578116948454,0
+month-to-month,yes,electronic check,105.0,4026.4,female,0,yes,no,both,fiber optic,no,no,yes,yes,yes,yes,yes,1143.1685870762299,1
+month-to-month,yes,electronic check,83.75,2070.6,male,0,yes,yes,both,fiber optic,no,no,no,no,yes,no,yes,778.9276799147916,1
+month-to-month,yes,electronic check,45.4,80.95,female,0,no,no,both,dsl,no,no,no,no,no,no,no,48.503189333152946,0
+two year,yes,bank transfer (automatic),61.9,nan,male,0,no,yes,both,dsl,yes,yes,no,yes,no,no,yes,-12.170429910430785,0
+month-to-month,yes,electronic check,99.8,4391.25,female,0,no,yes,both,fiber optic,no,yes,yes,no,yes,yes,no,1388.7345338790244,0
+one year,no,credit card (automatic),19.85,19.85,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,16.1932986684795,0
+month-to-month,yes,electronic check,98.65,2537.0,male,0,no,no,both,fiber optic,no,no,yes,yes,yes,yes,no,779.014480026877,0
+one year,yes,electronic check,90.4,2178.6,male,0,yes,yes,both,fiber optic,no,no,no,no,yes,yes,no,745.5354515397465,1
+month-to-month,yes,electronic check,24.8,324.15,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,443.8990055187737,0
+one year,yes,electronic check,90.8,3023.85,male,0,yes,yes,both,fiber optic,yes,yes,no,no,no,yes,no,960.1799101837101,0
+two year,yes,mailed check,66.9,4577.9,female,0,no,no,both,dsl,yes,yes,no,yes,no,no,yes,2089.0005802826076,0
+two year,no,bank transfer (automatic),79.7,5743.3,female,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,no,yes,2119.4322588743335,0
+month-to-month,yes,electronic check,26.2,1077.5,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,1205.9282531309022,0
+one year,yes,electronic check,65.65,3094.65,female,0,yes,no,both,dsl,no,yes,yes,no,no,yes,no,1448.0600976960197,0
+month-to-month,yes,bank transfer (automatic),20.05,85.5,female,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,109.10956067096615,0
+one year,no,bank transfer (automatic),101.15,6383.9,female,0,yes,no,both,fiber optic,no,no,no,yes,yes,yes,yes,1843.1661909019035,0
+two year,yes,bank transfer (automatic),19.25,1372.9,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,2028.3163286480333,0
+two year,no,bank transfer (automatic),99.7,4634.35,male,0,no,yes,both,fiber optic,no,no,yes,no,yes,yes,yes,1357.8163322752428,0
+month-to-month,no,credit card (automatic),55.2,528.35,female,0,yes,yes,both,dsl,no,no,yes,yes,no,no,no,291.52593584401507,1
+two year,no,bank transfer (automatic),20.5,1430.95,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,2027.5938031530063,0
+two year,yes,electronic check,93.15,6368.2,male,0,yes,no,both,fiber optic,no,yes,yes,no,no,yes,yes,2028.8347724081189,0
+two year,yes,bank transfer (automatic),20.0,886.4,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1358.9610738315857,0
+one year,yes,credit card (automatic),29.8,2134.3,male,1,yes,no,internet,dsl,no,no,yes,no,no,no,nan,2087.893423864017,0
+month-to-month,yes,bank transfer (automatic),99.25,3777.15,male,0,no,yes,both,fiber optic,no,no,yes,no,yes,yes,yes,1142.1424150676341,1
+one year,no,mailed check,20.95,683.25,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,931.0657383682067,0
+one year,no,mailed check,79.25,2911.8,male,0,yes,no,both,dsl,yes,no,yes,no,yes,yes,yes,1111.860133096881,0
+two year,yes,bank transfer (automatic),39.0,2337.45,male,0,yes,no,internet,dsl,no,no,no,yes,yes,no,nan,1873.9148120323262,0
+month-to-month,yes,mailed check,45.8,45.8,male,0,no,no,both,dsl,no,no,no,no,no,no,no,17.019707308356317,0
+month-to-month,no,bank transfer (automatic),19.5,150.35,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,263.5910603332035,0
+two year,no,credit card (automatic),65.3,4759.75,female,0,yes,no,both,dsl,yes,no,yes,yes,no,no,yes,2115.074972290239,1
+one year,yes,mailed check,80.75,3208.65,female,0,no,no,both,dsl,no,no,yes,yes,yes,yes,yes,1204.3868350344583,0
+month-to-month,yes,electronic check,94.2,4186.3,female,0,yes,yes,both,fiber optic,no,no,no,no,yes,yes,yes,1263.109658735254,1
+two year,no,mailed check,40.55,217.5,female,0,yes,yes,internet,dsl,no,yes,yes,yes,no,no,nan,170.70591180388234,0
+two year,no,mailed check,20.3,743.05,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1142.3687091209376,0
+month-to-month,yes,electronic check,91.1,964.35,female,0,no,yes,both,fiber optic,no,no,yes,yes,yes,no,no,293.8280966430618,0
+month-to-month,no,mailed check,24.3,100.2,male,0,no,no,internet,dsl,no,no,no,no,no,no,nan,140.1194015177042,0
+month-to-month,yes,electronic check,79.9,741.7,male,0,yes,no,both,fiber optic,no,yes,yes,no,no,no,no,258.5727405044528,1
+month-to-month,no,bank transfer (automatic),20.15,130.5,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,171.9453281786866,0
+month-to-month,no,mailed check,29.7,29.7,male,0,no,no,internet,dsl,yes,no,no,no,no,no,nan,18.04113310742558,1
+two year,yes,mailed check,91.25,6589.6,male,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,yes,2150.2392586840097,0
+month-to-month,yes,credit card (automatic),51.1,1269.6,male,0,no,no,both,dsl,no,no,no,yes,no,no,no,717.6634010090627,0
+month-to-month,yes,mailed check,48.8,297.35,female,0,yes,yes,both,dsl,no,no,no,yes,no,no,no,169.86676848657189,0
+month-to-month,yes,mailed check,50.0,892.7,female,0,no,no,both,dsl,no,no,yes,no,no,no,no,535.0487750136922,0
+month-to-month,no,mailed check,20.3,246.7,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,351.31549377733626,0
+two year,yes,credit card (automatic),103.75,7039.45,female,0,yes,yes,both,fiber optic,no,yes,no,yes,yes,yes,yes,2056.278172455272,0
+month-to-month,no,mailed check,74.55,1215.8,female,0,yes,yes,both,dsl,yes,yes,no,no,yes,yes,no,505.712541846884,0
+month-to-month,no,electronic check,89.5,161.5,female,1,no,no,both,fiber optic,no,yes,no,no,no,yes,yes,46.066050238977475,1
+month-to-month,yes,electronic check,55.0,55.0,male,0,no,no,both,dsl,no,no,no,no,no,yes,no,16.978796269761215,1
+month-to-month,yes,electronic check,49.8,1049.05,female,0,no,no,both,dsl,yes,no,no,no,no,no,no,658.1259629857243,0
+month-to-month,yes,electronic check,94.5,4156.8,female,1,yes,no,both,fiber optic,yes,yes,no,no,yes,no,yes,1296.7654887283625,0
+month-to-month,no,mailed check,26.45,911.6,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,1111.06921681723,0
+two year,no,credit card (automatic),113.65,8166.8,female,0,yes,yes,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2150.4044598554615,0
+two year,no,mailed check,20.0,nan,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,-13.887553496783902,0
+two year,no,bank transfer (automatic),67.4,3306.85,female,0,no,no,both,dsl,yes,yes,yes,yes,no,no,no,1477.2744963922053,0
+month-to-month,no,bank transfer (automatic),41.1,1597.05,female,0,no,no,internet,dsl,no,yes,yes,yes,no,no,nan,1172.818538124053,0
+two year,no,mailed check,84.75,2839.45,female,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,no,1023.1587312753506,0
+one year,no,credit card (automatic),29.45,1983.15,male,0,no,no,internet,dsl,no,no,no,yes,no,no,nan,1996.3333372145823,0
+month-to-month,no,bank transfer (automatic),74.75,827.05,male,0,no,no,both,dsl,no,no,yes,no,yes,yes,yes,352.9062890091361,0
+one year,no,credit card (automatic),19.8,457.3,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,778.0850567396463,0
+month-to-month,no,bank transfer (automatic),66.4,1286.05,male,1,yes,no,both,dsl,yes,no,yes,no,yes,no,no,565.2261892828004,0
+two year,yes,mailed check,20.55,945.7,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1419.4985768515323,0
+one year,no,electronic check,95.7,1184.0,male,0,no,no,both,fiber optic,no,no,yes,no,yes,yes,no,350.67874673151476,0
+month-to-month,no,mailed check,20.3,40.25,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,47.61329226438082,0
+month-to-month,yes,credit card (automatic),33.5,600.0,male,0,no,no,internet,dsl,no,yes,yes,no,no,no,nan,535.2244571262794,1
+one year,no,mailed check,20.1,730.1,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1143.406968608546,0
+month-to-month,yes,electronic check,100.2,420.2,male,0,yes,no,both,fiber optic,no,yes,no,no,yes,yes,yes,110.14355708092955,1
+month-to-month,yes,electronic check,73.15,1305.95,male,0,yes,no,both,fiber optic,no,no,no,no,no,no,yes,534.1357487431999,0
+month-to-month,yes,electronic check,86.0,165.45,male,0,no,no,both,fiber optic,no,no,no,no,no,yes,yes,47.226130409397605,1
+month-to-month,yes,credit card (automatic),88.95,2072.75,female,0,no,no,both,fiber optic,no,no,yes,no,yes,no,yes,715.6204209222361,0
+month-to-month,yes,electronic check,81.0,1312.15,female,0,no,yes,both,fiber optic,no,no,no,no,yes,no,no,473.1693102058696,1
+one year,yes,credit card (automatic),54.4,1516.6,male,0,no,yes,both,dsl,no,yes,no,yes,no,no,no,838.0147262097919,0
+two year,yes,credit card (automatic),104.9,7559.55,male,0,yes,yes,both,fiber optic,yes,no,yes,yes,yes,yes,no,2176.7459153539453,0
+month-to-month,yes,mailed check,50.5,147.75,male,0,no,no,both,dsl,no,no,no,yes,no,no,no,77.04680440388327,0
+one year,yes,mailed check,61.95,1070.7,female,0,yes,yes,both,dsl,no,no,yes,yes,no,no,yes,505.1579491298932,0
+month-to-month,yes,electronic check,70.05,3062.45,female,1,no,no,both,dsl,yes,no,no,yes,no,yes,yes,1357.6942209936471,0
+two year,no,credit card (automatic),84.2,5956.85,male,0,yes,no,both,dsl,no,yes,yes,yes,yes,yes,yes,2150.460746679346,0
+one year,yes,mailed check,59.3,3274.35,female,0,yes,yes,both,dsl,yes,no,yes,yes,no,no,no,1722.266532266686,0
+month-to-month,no,mailed check,20.85,62.9,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,110.41341929435772,0
+month-to-month,no,electronic check,75.35,1025.95,female,0,no,no,both,fiber optic,no,no,yes,no,no,no,no,412.0814357865627,1
+one year,no,electronic check,89.55,6038.55,male,0,yes,yes,both,fiber optic,yes,yes,no,yes,no,no,yes,2026.8767947211074,0
+month-to-month,yes,credit card (automatic),25.1,712.85,female,0,no,no,internet,dsl,no,no,no,no,no,no,nan,868.2289204142492,1
+month-to-month,yes,bank transfer (automatic),100.5,2599.95,female,0,no,no,both,fiber optic,no,no,yes,no,yes,yes,yes,777.4953507201402,0
+two year,no,credit card (automatic),19.65,1161.75,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1811.7060349702954,0
+month-to-month,yes,electronic check,103.85,5485.5,male,1,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1600.7248875584787,1
+month-to-month,yes,mailed check,70.1,467.55,male,1,yes,no,both,fiber optic,no,no,no,no,no,no,no,201.01976203783553,1
+one year,no,bank transfer (automatic),90.95,4236.6,female,0,yes,yes,both,fiber optic,no,no,yes,yes,no,yes,no,1386.1112033800466,0
+month-to-month,no,mailed check,19.95,214.75,male,1,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,320.52935813321574,1
+one year,yes,bank transfer (automatic),85.25,3704.15,male,0,no,no,both,dsl,no,yes,yes,yes,yes,yes,yes,1327.8472933551577,0
+one year,no,electronic check,59.3,3014.65,male,0,yes,yes,internet,dsl,yes,yes,yes,no,yes,yes,nan,1539.081873559353,1
+two year,no,credit card (automatic),70.35,3533.6,female,0,no,yes,both,fiber optic,no,no,no,no,no,no,no,1508.403983628283,0
+one year,yes,bank transfer (automatic),105.05,6744.25,female,0,no,no,both,fiber optic,no,yes,no,yes,yes,yes,yes,1964.7386988655135,0
+month-to-month,yes,bank transfer (automatic),34.65,768.45,male,1,no,no,internet,dsl,no,no,no,no,no,yes,nan,687.068211318261,0
+month-to-month,yes,bank transfer (automatic),75.4,1322.55,female,0,yes,no,both,dsl,no,yes,no,no,yes,yes,yes,504.23023189294804,0
+two year,no,credit card (automatic),25.55,1867.7,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,2176.190348263255,0
+month-to-month,no,bank transfer (automatic),44.8,559.2,male,0,yes,yes,both,dsl,no,no,no,no,no,no,no,383.27905404339623,0
+two year,yes,credit card (automatic),104.3,6725.3,female,0,yes,yes,both,fiber optic,yes,no,yes,no,yes,yes,yes,1965.8638622030448,0
+one year,yes,bank transfer (automatic),43.05,2208.05,male,0,no,yes,internet,dsl,yes,yes,no,no,yes,no,nan,1510.9032644858555,0
+one year,no,bank transfer (automatic),19.8,202.25,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,351.4216765213476,0
+month-to-month,yes,electronic check,100.7,4541.2,male,1,yes,yes,both,fiber optic,yes,yes,yes,no,yes,no,yes,1384.9078354756975,1
+month-to-month,yes,electronic check,29.65,118.5,male,0,no,no,internet,dsl,no,no,yes,no,no,no,nan,110.08695167006863,1
+two year,no,bank transfer (automatic),25.55,1898.1,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2148.844074805118,0
+month-to-month,yes,electronic check,69.8,377.85,male,0,yes,yes,both,fiber optic,no,no,no,no,no,no,no,169.58164137506603,0
+one year,yes,bank transfer (automatic),19.45,600.25,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,992.9905130533625,0
+two year,yes,bank transfer (automatic),25.95,1444.05,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1692.5183166241518,0
+month-to-month,yes,bank transfer (automatic),78.35,1837.9,female,0,no,no,both,dsl,yes,yes,yes,yes,yes,no,yes,746.0277286131196,0
+month-to-month,yes,electronic check,73.0,73.0,female,1,no,no,both,fiber optic,no,yes,no,no,no,no,no,17.772369113131504,1
+two year,yes,bank transfer (automatic),108.65,7726.35,female,0,yes,yes,both,fiber optic,yes,yes,yes,yes,yes,yes,no,2176.6016125805268,0
+month-to-month,yes,electronic check,100.2,6851.65,female,1,yes,no,both,fiber optic,no,yes,no,no,yes,yes,yes,2057.4974525848593,1
+month-to-month,yes,electronic check,75.3,75.3,male,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,18.616556716469347,1
+two year,no,mailed check,20.35,20.35,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,16.5838008055323,0
+month-to-month,yes,mailed check,50.65,151.3,female,0,no,no,both,dsl,no,no,no,no,no,no,yes,79.52132549709424,1
+month-to-month,yes,electronic check,49.3,49.3,male,0,no,no,both,dsl,no,no,no,yes,no,no,no,16.47073262715131,0
+month-to-month,yes,credit card (automatic),76.0,2215.25,female,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,868.0740409542369,0
+month-to-month,no,bank transfer (automatic),100.7,1522.7,female,0,yes,yes,both,fiber optic,yes,no,yes,no,yes,yes,no,473.950404150277,0
+month-to-month,yes,bank transfer (automatic),104.4,2200.25,female,0,yes,no,both,fiber optic,yes,no,yes,no,yes,yes,yes,624.6014081254225,1
+month-to-month,yes,electronic check,107.5,3242.5,female,0,yes,yes,both,fiber optic,no,yes,yes,yes,yes,yes,yes,899.9773257121112,0
+month-to-month,no,bank transfer (automatic),85.45,4517.25,male,0,no,no,both,fiber optic,no,no,no,no,yes,no,yes,1600.9469286282797,1
+month-to-month,yes,mailed check,109.6,5953.0,female,0,yes,yes,both,fiber optic,yes,no,yes,yes,yes,yes,yes,1692.1507127288571,0
+two year,yes,credit card (automatic),76.15,645.8,male,0,yes,yes,both,dsl,yes,yes,no,yes,no,yes,yes,230.76095171624462,0
+two year,yes,credit card (automatic),69.2,4671.65,male,0,yes,no,both,dsl,yes,yes,no,yes,no,yes,no,2026.950533354559,0
+month-to-month,no,mailed check,20.25,20.25,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,17.032109105914223,0
+two year,yes,electronic check,86.75,5186.0,male,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,no,1784.9132814580817,0
+month-to-month,yes,electronic check,90.7,2845.15,male,1,no,no,both,fiber optic,no,yes,no,no,yes,no,yes,932.6740697425986,0
+two year,no,credit card (automatic),90.95,6652.45,female,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,yes,2176.4892159234187,0
+month-to-month,yes,electronic check,106.4,5127.95,female,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1416.7600959769466,1
+one year,no,bank transfer (automatic),41.15,1700.9,female,0,no,no,internet,dsl,yes,yes,no,yes,no,no,nan,1174.4299124659892,0
+month-to-month,yes,electronic check,80.45,950.2,male,1,yes,no,both,fiber optic,no,no,no,no,no,yes,no,350.9937617411616,1
+month-to-month,yes,credit card (automatic),74.4,896.75,male,0,yes,yes,both,fiber optic,no,no,no,no,no,no,yes,381.4480205267202,1
+month-to-month,no,electronic check,19.75,19.75,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,18.824018136234997,0
+one year,no,credit card (automatic),55.6,2016.45,female,0,no,yes,both,dsl,yes,yes,no,no,no,no,no,1053.1401544726525,0
+month-to-month,yes,credit card (automatic),54.75,1406.9,female,0,no,no,both,dsl,no,yes,yes,no,no,no,no,777.5735729896161,0
+month-to-month,yes,electronic check,50.05,50.05,male,0,no,yes,both,dsl,no,no,no,no,no,no,yes,16.97662983432053,0
+two year,yes,electronic check,86.1,4890.5,male,0,yes,no,both,dsl,yes,yes,yes,no,yes,yes,yes,1752.3641369851448,0
+one year,yes,electronic check,44.45,2773.9,female,0,no,no,internet,dsl,yes,no,yes,no,no,yes,nan,1812.5305790030975,0
+month-to-month,yes,credit card (automatic),98.8,2807.1,male,0,no,no,both,fiber optic,no,no,yes,yes,yes,yes,no,868.7420095350886,0
+month-to-month,no,electronic check,44.0,44.0,male,0,no,no,both,dsl,no,no,no,no,no,no,no,17.067061461303965,0
+two year,yes,mailed check,20.8,1521.2,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,2176.9276259753624,0
+one year,no,credit card (automatic),95.75,6511.25,male,0,yes,yes,both,fiber optic,no,yes,yes,no,yes,no,yes,2088.567766425711,0
+month-to-month,no,electronic check,19.75,19.75,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,17.490335074866067,0
+month-to-month,yes,electronic check,84.8,546.95,male,1,no,no,both,fiber optic,no,no,no,no,yes,no,yes,199.80183392229335,1
+two year,yes,electronic check,75.5,5229.45,female,0,yes,yes,both,dsl,yes,no,no,no,yes,yes,yes,2027.8055513446434,0
+one year,no,credit card (automatic),110.9,7432.05,male,1,no,no,both,fiber optic,no,yes,yes,yes,yes,yes,yes,1996.4716208318414,1
+two year,yes,bank transfer (automatic),72.95,4953.25,male,0,yes,yes,both,dsl,no,no,yes,yes,yes,yes,no,2057.610212568236,0
+one year,yes,bank transfer (automatic),104.7,7220.35,male,0,no,no,both,fiber optic,no,yes,no,yes,yes,yes,yes,2088.297329424594,1
+month-to-month,no,mailed check,20.75,141.1,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,202.0509877324737,0
+month-to-month,no,electronic check,54.15,1312.45,male,0,no,yes,both,dsl,no,yes,no,yes,no,no,no,687.0178872341128,0
+two year,yes,credit card (automatic),70.1,3238.4,female,0,yes,yes,both,dsl,yes,yes,yes,no,no,yes,no,1447.5579898070537,0
+month-to-month,no,electronic check,90.6,1020.2,male,0,yes,yes,both,fiber optic,no,no,no,no,yes,yes,no,324.685851929983,0
+one year,yes,bank transfer (automatic),79.85,3320.75,female,0,no,no,both,dsl,yes,no,yes,yes,yes,yes,no,1234.5529375639514,0
+two year,no,mailed check,24.6,1279.0,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1601.0966644400785,0
+one year,no,credit card (automatic),99.25,5846.65,female,0,yes,yes,both,fiber optic,yes,yes,no,no,yes,yes,no,1752.0183174892038,0
+month-to-month,yes,bank transfer (automatic),59.15,336.7,male,0,no,no,both,dsl,yes,no,no,no,no,yes,no,171.76587541215991,0
+month-to-month,no,mailed check,20.35,41.85,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,49.23183071156469,0
+month-to-month,yes,bank transfer (automatic),84.8,2309.55,male,1,yes,no,both,dsl,no,yes,yes,yes,yes,yes,yes,809.5543382718067,0
+one year,no,electronic check,61.05,1540.2,female,0,no,no,internet,dsl,yes,yes,yes,no,yes,yes,nan,746.0795911049355,0
+two year,no,bank transfer (automatic),86.15,5883.85,female,0,yes,no,both,dsl,no,yes,yes,yes,yes,yes,yes,2027.2374779052318,0
+one year,no,mailed check,19.95,936.7,female,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1446.2752956021775,0
+one year,no,mailed check,70.6,3231.05,female,0,yes,no,both,dsl,yes,yes,no,yes,no,yes,no,1388.1838818873844,0
+one year,no,credit card (automatic),64.5,1929.95,male,0,no,yes,both,dsl,no,yes,yes,no,yes,no,no,901.5515318297606,0
+one year,no,bank transfer (automatic),42.3,1840.75,male,0,no,no,internet,dsl,yes,no,yes,yes,no,no,nan,1356.8282063356398,0
+month-to-month,yes,electronic check,50.45,50.45,male,0,no,no,both,dsl,no,no,no,no,no,no,yes,16.964152948572334,1
+two year,yes,credit card (automatic),63.25,3342.45,male,0,no,no,both,dsl,yes,yes,no,no,yes,no,no,1570.3946203138532,0
+month-to-month,yes,electronic check,74.55,3015.75,male,0,yes,yes,both,dsl,no,no,yes,no,yes,yes,yes,1205.5624748797757,0
+two year,yes,credit card (automatic),104.0,7250.15,male,0,no,no,both,fiber optic,yes,no,no,yes,yes,yes,yes,2114.0240238842644,1
+month-to-month,yes,electronic check,85.3,424.15,male,0,no,no,both,fiber optic,no,yes,yes,no,no,no,yes,138.3277226733189,1
+one year,yes,mailed check,70.0,347.4,male,0,no,no,both,dsl,no,no,yes,no,yes,yes,no,140.89576865116004,1
+month-to-month,yes,bank transfer (automatic),105.7,3181.8,male,1,yes,no,both,fiber optic,yes,yes,yes,yes,yes,no,yes,900.2516611298486,0
+month-to-month,yes,credit card (automatic),79.85,2001.0,male,0,no,no,both,fiber optic,no,no,no,no,no,yes,no,715.1518775481866,0
+month-to-month,yes,electronic check,74.65,703.55,female,0,no,no,both,dsl,yes,yes,no,no,yes,yes,no,260.0028758552503,1
+month-to-month,yes,electronic check,69.65,69.65,male,1,no,no,both,fiber optic,no,no,no,no,no,no,no,17.849951713422897,1
+two year,yes,bank transfer (automatic),109.75,7932.5,male,1,yes,no,both,fiber optic,no,yes,yes,yes,yes,yes,yes,2176.147655055188,0
+two year,no,credit card (automatic),101.15,6067.4,male,0,yes,no,both,fiber optic,no,no,yes,no,yes,yes,yes,1811.6844984873358,0
+two year,no,bank transfer (automatic),105.5,7611.55,male,0,yes,yes,both,fiber optic,yes,yes,no,yes,yes,yes,no,2177.1268840742923,0
+one year,no,mailed check,20.65,417.5,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,596.0915555160456,0
+month-to-month,yes,mailed check,19.85,252.0,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,381.1914133957307,0
+month-to-month,yes,electronic check,59.9,788.35,male,1,no,no,both,dsl,no,yes,no,no,yes,no,no,381.04436097243456,0
+two year,yes,mailed check,24.9,1680.25,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,2026.54030489697,0
+one year,yes,electronic check,80.1,4693.2,female,0,yes,no,both,dsl,no,yes,no,yes,yes,yes,yes,1784.365278602124,0
+two year,no,credit card (automatic),25.05,1873.7,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2150.90908257865,0
+month-to-month,yes,bank transfer (automatic),49.6,962.9,female,0,yes,yes,both,dsl,no,no,yes,no,no,no,no,567.3848355316952,0
+month-to-month,no,bank transfer (automatic),19.2,702.9,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1082.4304971213162,0
+one year,yes,bank transfer (automatic),86.7,6179.35,male,1,yes,yes,both,fiber optic,yes,yes,yes,no,no,no,no,2149.263842213112,0
+two year,no,credit card (automatic),20.65,1218.45,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1875.2402487709244,0
+month-to-month,no,bank transfer (automatic),98.15,4993.4,female,0,yes,yes,both,fiber optic,yes,yes,yes,no,no,yes,yes,1571.97344037052,0
+one year,yes,electronic check,99.1,5437.1,female,1,yes,no,both,fiber optic,no,no,yes,yes,yes,yes,no,1630.6427047469033,0
+month-to-month,yes,credit card (automatic),105.25,4997.5,female,0,yes,yes,both,fiber optic,yes,yes,no,no,yes,yes,yes,1447.5479220317777,0
+month-to-month,yes,electronic check,75.2,2576.2,male,0,yes,no,both,fiber optic,no,no,no,no,no,no,yes,1050.2639462098773,1
+month-to-month,yes,electronic check,89.2,3645.75,male,0,no,no,both,fiber optic,no,yes,no,no,yes,no,yes,1234.273092129313,0
+one year,no,bank transfer (automatic),40.65,947.4,male,0,no,yes,internet,dsl,yes,yes,no,yes,no,no,nan,687.7871381330004,0
+month-to-month,yes,electronic check,53.8,283.95,female,0,no,no,both,dsl,yes,no,no,no,no,no,yes,139.11524298753608,0
+two year,no,credit card (automatic),80.35,5375.15,male,0,yes,yes,both,fiber optic,yes,no,yes,no,no,no,no,2058.52574063331,0
+month-to-month,yes,bank transfer (automatic),97.35,3457.9,female,0,yes,yes,both,fiber optic,no,yes,yes,no,yes,no,yes,1082.7560830677646,1
+two year,yes,credit card (automatic),110.8,6640.7,female,0,yes,no,both,fiber optic,no,yes,yes,yes,yes,yes,yes,1811.2818329543222,0
+one year,yes,credit card (automatic),110.85,5275.8,male,0,yes,no,both,fiber optic,yes,no,yes,yes,yes,yes,yes,1417.938811525327,1
+two year,yes,electronic check,110.5,7752.05,female,0,yes,no,both,fiber optic,no,yes,yes,yes,yes,yes,yes,2118.1254426309365,0
+one year,yes,mailed check,54.6,617.85,female,0,no,no,both,dsl,yes,no,no,yes,no,no,no,324.0672692029279,0
+month-to-month,no,electronic check,104.35,3205.6,female,0,no,no,both,fiber optic,yes,yes,no,no,yes,yes,yes,931.7890887276131,0
+month-to-month,yes,electronic check,48.2,340.35,female,1,no,no,both,dsl,yes,no,no,no,no,no,no,202.2580061692244,0
+two year,no,credit card (automatic),89.9,6457.15,male,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,yes,2148.5187039908888,0
+one year,no,electronic check,75.15,3772.65,female,0,no,no,both,fiber optic,no,yes,no,no,no,no,no,1447.6526890061127,0
+month-to-month,yes,mailed check,49.4,232.55,female,0,yes,yes,both,dsl,yes,no,no,no,no,no,no,140.28691003960242,0
+month-to-month,yes,electronic check,79.0,522.95,female,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,199.45507627464087,1
+one year,no,credit card (automatic),109.15,7789.6,female,0,yes,no,both,fiber optic,no,yes,yes,yes,yes,yes,yes,2178.0409723232974,0
+month-to-month,no,electronic check,57.55,161.45,female,0,no,no,both,dsl,no,no,yes,no,yes,no,no,77.61745595308258,0
+month-to-month,yes,electronic check,79.95,79.95,male,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,15.654610406241261,1
+one year,yes,mailed check,100.9,5552.05,male,0,no,no,both,fiber optic,yes,yes,no,no,yes,yes,no,1662.9243838529517,0
+one year,no,mailed check,19.7,117.8,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,109.96183955831003,0
+month-to-month,yes,mailed check,64.4,253.0,female,0,no,no,both,dsl,no,no,no,yes,yes,no,yes,109.49640802881551,0
+month-to-month,yes,electronic check,100.05,3810.55,female,0,no,no,both,fiber optic,no,no,yes,no,yes,yes,yes,1111.8731250053943,0
+one year,no,credit card (automatic),20.55,1013.05,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1418.9578006554755,0
+month-to-month,no,electronic check,54.35,54.35,male,0,no,no,both,dsl,no,no,yes,no,no,no,yes,17.265517607605112,1
+month-to-month,yes,electronic check,89.4,1095.65,female,0,no,no,both,fiber optic,no,no,yes,yes,no,yes,no,352.9558077287883,1
+month-to-month,yes,electronic check,80.6,415.55,male,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,139.12477174571973,1
+two year,no,mailed check,20.7,828.85,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1264.0774467370907,0
+month-to-month,yes,bank transfer (automatic),79.35,79.35,female,0,yes,no,both,fiber optic,no,no,no,no,yes,no,no,15.187483024057258,1
+one year,yes,electronic check,99.25,3532.0,female,0,no,no,both,fiber optic,no,no,yes,yes,yes,yes,no,1052.1192942036218,0
+month-to-month,yes,electronic check,64.75,2345.2,female,0,no,no,both,dsl,no,no,no,no,yes,yes,no,1111.0274036004566,1
+month-to-month,yes,electronic check,74.7,165.4,male,1,no,no,both,fiber optic,no,yes,no,no,no,no,no,46.06935006866076,1
+month-to-month,yes,electronic check,93.5,362.2,female,0,no,no,both,fiber optic,no,yes,no,yes,no,yes,yes,110.86617876955101,1
+month-to-month,no,mailed check,69.15,3649.6,female,0,yes,no,both,fiber optic,no,no,no,no,no,no,no,1540.3555675345604,0
+month-to-month,yes,electronic check,44.8,2104.55,female,0,no,no,internet,dsl,yes,yes,no,no,yes,no,nan,1447.731508381009,0
+one year,yes,credit card (automatic),104.65,6889.8,male,0,no,no,both,fiber optic,no,no,yes,yes,yes,yes,yes,1934.0359387551462,0
+month-to-month,yes,mailed check,24.45,24.45,male,0,no,no,internet,dsl,no,no,no,no,no,no,nan,15.10375430513192,1
+month-to-month,yes,credit card (automatic),102.1,1068.85,female,0,yes,yes,both,fiber optic,no,yes,yes,no,yes,yes,yes,288.7412496780956,1
+two year,no,credit card (automatic),19.85,470.0,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,807.0929326248242,0
+month-to-month,yes,bank transfer (automatic),87.0,1850.65,male,0,yes,no,both,fiber optic,no,no,yes,no,yes,no,no,658.4753824051473,0
+month-to-month,yes,bank transfer (automatic),98.05,713.0,male,0,no,no,both,fiber optic,no,no,yes,no,yes,yes,yes,200.91760377141978,1
+month-to-month,yes,mailed check,79.1,1783.75,female,0,no,no,both,fiber optic,no,yes,no,yes,no,no,no,687.6841510967628,0
+month-to-month,yes,electronic check,93.2,2931.0,female,1,yes,no,both,fiber optic,no,no,no,no,yes,yes,yes,962.0538051002766,1
+two year,yes,bank transfer (automatic),83.3,6042.7,female,0,yes,yes,both,dsl,yes,no,yes,yes,yes,yes,yes,2178.389197007408,0
+month-to-month,yes,electronic check,106.35,3549.25,male,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1020.1667977671478,1
+month-to-month,yes,electronic check,84.1,1737.45,male,0,no,no,both,fiber optic,no,no,no,no,no,yes,yes,627.0540812793876,0
+two year,yes,mailed check,111.15,7737.55,female,0,no,no,both,fiber optic,yes,yes,yes,no,yes,yes,yes,2119.7567958948543,0
+month-to-month,yes,electronic check,85.75,5688.45,male,1,yes,yes,both,fiber optic,yes,yes,no,no,no,no,yes,1966.4430096446833,0
+month-to-month,yes,credit card (automatic),66.4,2727.8,female,0,yes,no,both,dsl,yes,yes,no,yes,no,no,yes,1266.8080801768904,0
+one year,no,credit card (automatic),90.25,5629.15,male,0,yes,yes,both,fiber optic,no,no,yes,no,no,yes,yes,1935.0063870653403,0
+one year,no,mailed check,60.05,3994.05,male,0,yes,yes,both,dsl,yes,yes,no,yes,no,no,no,2028.6267629854954,0
+month-to-month,yes,electronic check,90.1,521.3,female,0,no,no,both,fiber optic,no,yes,no,no,yes,no,yes,169.04448759014616,1
+one year,no,bank transfer (automatic),19.45,1336.35,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1843.3074767762082,0
+month-to-month,yes,electronic check,78.1,1122.4,female,0,yes,no,both,fiber optic,no,no,no,no,no,yes,no,413.3621778657555,0
+month-to-month,no,bank transfer (automatic),75.35,1114.55,female,0,yes,no,both,fiber optic,no,yes,no,no,no,no,no,444.9942777981832,0
+month-to-month,yes,credit card (automatic),99.0,287.4,female,0,no,no,both,fiber optic,yes,no,yes,no,yes,yes,no,77.72099760070682,1
+month-to-month,yes,bank transfer (automatic),20.45,471.55,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,658.9699323644791,0
+month-to-month,yes,bank transfer (automatic),98.1,2510.7,female,1,yes,no,both,fiber optic,no,no,yes,no,yes,yes,yes,779.8883774467087,0
+one year,yes,electronic check,55.95,1157.05,female,0,yes,yes,internet,dsl,yes,no,yes,no,yes,yes,nan,625.1614683573455,1
+month-to-month,yes,mailed check,19.4,19.4,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,18.815021978984113,0
+two year,no,mailed check,20.65,835.15,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1233.3846066737822,0
+month-to-month,no,mailed check,49.85,1336.15,female,0,yes,yes,both,dsl,no,yes,no,no,no,no,no,808.0979382289736,0
+one year,no,bank transfer (automatic),20.15,405.6,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,689.2840187923877,0
+month-to-month,yes,bank transfer (automatic),101.55,298.35,male,0,no,no,both,fiber optic,no,no,yes,no,yes,yes,yes,76.83400168655153,1
+two year,no,bank transfer (automatic),60.5,3694.45,male,0,yes,yes,both,dsl,yes,yes,yes,no,no,no,no,1811.7828894169058,0
+month-to-month,yes,bank transfer (automatic),95.0,3440.25,male,0,yes,no,both,fiber optic,no,no,no,no,yes,yes,yes,1081.4351813405065,0
+month-to-month,yes,electronic check,44.15,92.65,male,1,no,no,both,dsl,no,no,no,no,no,no,no,47.060279519642606,1
+month-to-month,yes,credit card (automatic),95.1,180.25,male,1,no,no,both,fiber optic,no,yes,yes,yes,no,yes,no,48.496685912028774,1
+month-to-month,yes,bank transfer (automatic),85.6,1345.55,male,1,yes,no,both,fiber optic,no,no,no,no,no,yes,yes,443.3544844341737,1
+month-to-month,yes,electronic check,69.35,69.35,male,0,no,no,both,fiber optic,no,no,no,no,no,no,no,17.645853636056366,1
+two year,no,bank transfer (automatic),104.6,6885.75,male,0,yes,yes,both,fiber optic,yes,no,no,yes,yes,yes,yes,2026.3515332241436,0
+month-to-month,no,mailed check,84.4,1936.85,female,0,yes,yes,both,fiber optic,yes,yes,no,yes,no,no,no,689.2275969986378,0
+month-to-month,yes,electronic check,25.6,901.25,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1053.5435071455777,0
+two year,no,credit card (automatic),53.65,3784.0,female,0,yes,yes,internet,dsl,no,yes,no,yes,yes,yes,nan,2177.1510501012413,0
+two year,yes,bank transfer (automatic),87.55,6463.15,male,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,yes,2178.449601127125,0
+month-to-month,yes,mailed check,83.4,83.4,female,0,no,no,both,fiber optic,yes,yes,no,yes,no,no,no,17.616953759424998,0
+month-to-month,yes,electronic check,78.85,292.8,female,1,no,no,both,fiber optic,no,no,no,no,yes,no,no,110.59048119428178,1
+month-to-month,no,electronic check,70.5,294.2,male,0,yes,no,both,fiber optic,no,no,no,no,no,no,no,109.98080954893624,0
+month-to-month,yes,bank transfer (automatic),75.75,1929.0,male,0,yes,yes,both,fiber optic,no,no,no,no,no,no,yes,809.6152340959859,0
+one year,no,bank transfer (automatic),19.55,1007.9,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1599.796002392248,0
+one year,no,bank transfer (automatic),58.35,3756.45,female,0,yes,no,both,dsl,no,no,yes,yes,no,no,yes,1936.1562313288302,0
+month-to-month,no,mailed check,19.55,19.55,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,17.53007975437209,0
+month-to-month,yes,electronic check,35.1,68.75,female,0,yes,no,internet,dsl,no,no,no,no,no,yes,nan,48.99658826646234,1
+one year,yes,electronic check,19.9,164.6,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,263.77914780419286,0
+month-to-month,no,mailed check,20.05,20.05,male,1,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,16.504020877847164,1
+month-to-month,no,electronic check,58.95,955.15,female,0,no,no,both,dsl,yes,no,yes,yes,no,no,no,444.6172615842462,0
+one year,yes,electronic check,91.15,4862.5,female,0,yes,no,both,fiber optic,no,no,no,yes,no,yes,yes,1600.4077685689092,0
+month-to-month,no,electronic check,24.15,812.5,female,0,no,no,internet,dsl,no,no,no,no,no,no,nan,1054.4925907185163,0
+month-to-month,no,mailed check,67.45,1801.1,female,0,no,no,both,dsl,yes,yes,no,yes,no,no,yes,870.3943116774751,0
+month-to-month,no,bank transfer (automatic),20.15,238.15,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,263.112708923156,0
+month-to-month,no,electronic check,55.15,1319.85,female,0,yes,yes,both,dsl,yes,no,no,yes,no,no,no,717.8763490278918,0
+month-to-month,yes,electronic check,20.5,76.95,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,78.63455343949983,0
+two year,no,credit card (automatic),20.05,388.6,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,534.2843271012746,0
+two year,no,credit card (automatic),68.75,4888.2,female,0,yes,yes,both,dsl,yes,yes,yes,no,no,yes,no,2176.990380429469,0
+one year,yes,credit card (automatic),54.75,1266.35,female,0,no,yes,both,dsl,no,yes,no,yes,no,no,no,746.1139055875689,0
+month-to-month,no,bank transfer (automatic),83.4,4149.45,male,0,no,no,both,fiber optic,no,no,no,no,no,yes,yes,1540.9065307731298,0
+two year,no,mailed check,20.75,1118.8,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1722.946716858719,0
+two year,no,credit card (automatic),55.65,3880.05,female,0,yes,yes,internet,dsl,yes,yes,yes,yes,no,yes,nan,2177.8869033308983,0
+month-to-month,yes,credit card (automatic),102.7,5138.1,female,0,yes,no,both,fiber optic,no,yes,no,yes,yes,yes,yes,1570.3943610396302,0
+month-to-month,no,electronic check,79.2,172.85,female,1,yes,no,both,fiber optic,no,no,yes,no,no,no,yes,48.162767396002494,1
+month-to-month,yes,credit card (automatic),69.95,562.7,male,1,no,no,both,fiber optic,no,no,no,no,no,no,no,231.7958897153837,0
+two year,yes,bank transfer (automatic),110.8,7553.6,female,0,yes,no,both,fiber optic,yes,yes,yes,no,yes,yes,yes,2057.3825671935747,0
+two year,yes,electronic check,105.05,7171.7,male,1,no,no,both,fiber optic,yes,yes,no,yes,yes,yes,no,2028.527430260667,0
+two year,yes,credit card (automatic),74.6,4798.4,male,0,no,no,both,dsl,yes,yes,yes,no,no,yes,yes,1997.8166835361005,0
+two year,no,electronic check,73.6,3522.65,male,0,yes,no,both,dsl,no,yes,yes,no,yes,yes,no,1418.0104831571082,0
+month-to-month,no,credit card (automatic),61.45,229.55,male,0,yes,yes,both,dsl,no,no,no,yes,no,yes,no,109.14917399493416,1
+month-to-month,no,bank transfer (automatic),24.7,465.85,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,567.9278317269747,0
+month-to-month,yes,bank transfer (automatic),70.4,2406.1,female,0,no,no,both,fiber optic,no,no,no,no,no,no,no,993.3829271088264,0
+one year,no,bank transfer (automatic),19.8,342.3,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,536.5214220181505,0
+month-to-month,yes,mailed check,35.65,1025.15,female,1,yes,yes,internet,dsl,no,yes,yes,no,no,no,nan,870.7378399735521,0
+month-to-month,yes,electronic check,101.25,3949.15,female,1,yes,no,both,fiber optic,no,no,no,yes,yes,yes,yes,1172.718129209297,0
+two year,yes,credit card (automatic),79.85,4861.45,female,0,no,no,both,dsl,yes,yes,yes,yes,yes,no,yes,1904.8666239634897,0
+month-to-month,yes,electronic check,70.0,1144.5,female,0,no,no,both,fiber optic,no,no,no,no,no,no,no,505.501437078368,1
+two year,no,credit card (automatic),81.35,4060.9,male,1,no,no,both,dsl,yes,yes,yes,yes,no,yes,yes,1478.9840425441578,0
+two year,no,credit card (automatic),101.3,5779.6,female,1,no,no,both,fiber optic,yes,no,yes,yes,no,yes,yes,1724.4637744298816,0
+month-to-month,yes,bank transfer (automatic),75.5,2324.7,female,0,yes,no,both,fiber optic,yes,no,no,no,no,no,no,960.3224266736906,0
+one year,yes,credit card (automatic),110.0,7138.65,male,0,no,no,both,fiber optic,yes,no,yes,yes,yes,yes,yes,1965.6171110542991,0
+two year,yes,credit card (automatic),24.65,1171.3,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,1356.896389838577,0
+month-to-month,yes,bank transfer (automatic),92.95,4122.9,male,0,yes,yes,both,fiber optic,no,no,yes,no,yes,yes,no,1327.2584060712356,0
+two year,no,mailed check,19.6,331.6,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,444.49492475695854,0
+month-to-month,yes,bank transfer (automatic),83.55,2570.2,male,0,yes,yes,both,fiber optic,no,yes,no,yes,no,no,yes,901.2916886448999,0
+two year,no,mailed check,63.55,4014.2,female,0,yes,yes,both,dsl,yes,yes,yes,yes,no,no,no,1905.3654764735325,0
+month-to-month,yes,electronic check,106.9,1364.3,male,1,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,381.58583594482474,1
+two year,no,mailed check,19.35,1031.7,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1569.9607678790858,0
+one year,yes,electronic check,103.7,4730.6,female,0,no,no,both,fiber optic,yes,no,yes,yes,yes,yes,no,1419.73124622808,0
+month-to-month,yes,electronic check,29.9,92.25,male,0,yes,no,internet,dsl,no,no,no,yes,no,no,nan,77.16104219097797,0
+month-to-month,no,bank transfer (automatic),20.65,93.55,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,140.884540694838,0
+month-to-month,yes,credit card (automatic),85.05,999.8,male,0,yes,no,both,fiber optic,no,yes,no,no,no,yes,no,352.7029780071358,0
+month-to-month,yes,electronic check,95.15,2395.7,female,0,yes,no,both,fiber optic,no,no,no,yes,yes,yes,no,747.5715377035332,0
+one year,yes,mailed check,44.1,2413.05,female,0,yes,yes,both,dsl,no,no,no,no,no,no,no,1754.1234669698717,0
+one year,no,bank transfer (automatic),55.45,1477.65,male,0,no,no,both,dsl,yes,yes,no,no,no,no,no,809.3965943830931,0
+two year,no,credit card (automatic),89.7,6339.3,male,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,yes,2178.6790568403203,0
+month-to-month,yes,mailed check,49.9,49.9,male,0,no,yes,both,dsl,no,no,no,yes,no,no,no,16.530050011415724,1
+month-to-month,yes,electronic check,75.5,75.5,male,0,no,no,both,dsl,no,no,yes,yes,yes,yes,no,17.39362772952945,0
+month-to-month,no,mailed check,81.5,162.55,female,1,no,no,both,fiber optic,no,no,no,no,yes,no,no,49.62792255576509,0
+one year,yes,electronic check,90.7,2835.5,female,1,yes,no,both,fiber optic,no,no,yes,no,yes,no,yes,932.7613591830748,0
+two year,no,bank transfer (automatic),80.6,5708.2,male,0,no,no,both,dsl,yes,yes,yes,yes,no,yes,yes,2148.4485532042268,0
+month-to-month,yes,electronic check,70.3,208.85,male,0,yes,no,both,fiber optic,no,no,no,no,no,no,no,78.76669694194253,1
+two year,no,mailed check,34.6,813.45,female,0,yes,yes,internet,dsl,yes,no,no,yes,no,no,nan,687.0287341297865,0
+one year,yes,credit card (automatic),74.7,3187.65,female,0,yes,yes,both,dsl,yes,no,no,yes,yes,yes,no,1235.0577924813556,0
+two year,no,credit card (automatic),19.4,578.5,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,899.0800353285581,0
+month-to-month,no,mailed check,19.4,19.4,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,15.91906471210616,1
+two year,no,electronic check,105.55,7405.5,male,0,yes,yes,both,fiber optic,yes,no,yes,no,yes,yes,yes,2148.5366833032344,0
+two year,yes,electronic check,97.2,5611.75,female,0,yes,no,both,fiber optic,yes,no,no,yes,yes,yes,no,1813.3639583030372,0
+one year,yes,electronic check,109.4,7281.6,female,0,yes,yes,both,fiber optic,yes,no,yes,yes,yes,yes,yes,2026.7233113608268,0
+one year,no,mailed check,20.15,419.9,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,656.2455877728842,0
+month-to-month,yes,electronic check,83.95,2254.2,male,0,no,no,both,fiber optic,no,no,no,no,no,yes,yes,778.5897757702679,1
+month-to-month,no,credit card (automatic),29.3,1224.05,male,0,yes,yes,internet,dsl,no,yes,no,no,no,no,nan,1296.9563329446632,0
+two year,yes,bank transfer (automatic),110.0,6668.35,female,1,yes,no,both,fiber optic,yes,yes,yes,yes,yes,yes,no,1812.2926200726888,0
+month-to-month,no,credit card (automatic),90.45,1266.1,male,1,no,no,both,fiber optic,no,no,no,no,yes,yes,no,412.2756976350987,1
+month-to-month,yes,bank transfer (automatic),83.2,1130.0,female,0,no,no,both,fiber optic,no,yes,no,no,yes,no,no,442.60851827044945,0
+month-to-month,no,bank transfer (automatic),82.05,2570.2,male,0,yes,yes,both,fiber optic,no,yes,yes,no,no,no,no,899.2825894382028,0
+two year,yes,credit card (automatic),24.15,1776.45,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2176.8743363417507,0
+month-to-month,yes,electronic check,70.3,738.2,male,0,yes,no,both,fiber optic,no,no,no,no,no,no,no,288.5154670946344,1
+month-to-month,yes,electronic check,86.25,587.1,female,0,yes,no,both,fiber optic,no,no,yes,no,yes,no,no,199.1057807421491,1
+one year,yes,bank transfer (automatic),106.8,5498.8,male,0,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1540.0277982971147,0
+one year,no,electronic check,71.8,3472.05,female,0,yes,no,both,dsl,yes,yes,yes,no,no,yes,yes,1478.862400149889,0
+month-to-month,yes,mailed check,79.15,79.15,female,0,no,no,both,fiber optic,no,yes,no,no,no,no,yes,18.504201762283028,0
+two year,yes,bank transfer (automatic),80.45,5886.85,female,0,yes,yes,both,dsl,yes,no,yes,yes,yes,yes,no,2178.118192857867,0
+month-to-month,no,mailed check,20.35,92.75,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,139.77870770266784,0
+one year,yes,bank transfer (automatic),90.65,3974.15,male,0,yes,no,both,fiber optic,no,no,no,no,yes,yes,no,1327.4822521625797,0
+month-to-month,no,credit card (automatic),19.75,208.25,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,291.71454809171445,0
+one year,no,credit card (automatic),20.1,589.25,female,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,931.4812465680257,0
+one year,yes,mailed check,26.8,733.55,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,748.7658014208479,0
+month-to-month,no,mailed check,19.15,19.15,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,18.719277298845356,0
+month-to-month,no,electronic check,101.15,3741.85,male,1,yes,yes,both,fiber optic,no,yes,no,no,yes,yes,yes,1143.6344578113437,0
+month-to-month,yes,electronic check,54.3,654.5,female,0,no,no,both,dsl,no,yes,no,yes,no,no,no,351.78128258719664,0
+one year,no,electronic check,44.15,1931.3,male,0,no,no,internet,dsl,no,no,yes,yes,no,yes,nan,1295.086730112936,0
+two year,no,credit card (automatic),20.5,1424.9,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,2058.0059572040605,0
+one year,yes,credit card (automatic),73.0,5163.0,female,0,yes,yes,both,dsl,yes,yes,yes,no,yes,no,yes,2058.327562032806,0
+two year,yes,credit card (automatic),83.6,5959.3,female,0,yes,yes,both,dsl,yes,yes,yes,no,yes,yes,yes,2176.090329939819,0
+month-to-month,yes,electronic check,70.3,2416.55,female,0,yes,no,both,fiber optic,no,no,no,no,no,no,no,1050.2474230300395,1
+month-to-month,no,electronic check,54.95,1348.5,male,0,no,no,both,dsl,yes,no,no,yes,no,no,no,716.7629410517691,0
+month-to-month,yes,bank transfer (automatic),79.35,3344.1,male,1,no,no,both,fiber optic,no,yes,no,no,no,no,yes,1266.235099649154,0
+month-to-month,yes,electronic check,78.05,2135.5,female,1,no,no,both,fiber optic,no,no,yes,no,no,no,yes,807.4557812029205,1
+month-to-month,no,bank transfer (automatic),78.1,947.3,female,0,no,no,both,fiber optic,no,no,no,no,no,yes,no,351.8059622201146,1
+two year,yes,bank transfer (automatic),19.55,1080.55,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1691.7538781500114,0
+one year,yes,credit card (automatic),109.7,7344.45,female,0,yes,no,both,fiber optic,no,yes,yes,yes,yes,yes,yes,2028.5340344438134,0
+month-to-month,yes,credit card (automatic),55.0,1046.5,male,0,no,no,both,dsl,no,no,yes,yes,no,no,no,565.7071643099176,1
+month-to-month,yes,mailed check,55.1,113.35,male,0,no,no,both,dsl,yes,no,yes,no,no,no,no,46.270536621647715,1
+month-to-month,no,mailed check,19.75,19.75,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,17.992689994749448,0
+two year,no,bank transfer (automatic),84.5,5193.2,female,0,no,no,both,dsl,no,yes,yes,yes,yes,yes,yes,1874.6236666944833,0
+month-to-month,yes,bank transfer (automatic),80.7,788.8,male,0,no,no,both,fiber optic,no,yes,no,no,no,no,yes,290.01599723763474,1
+one year,yes,electronic check,106.0,6547.7,male,0,yes,yes,both,fiber optic,yes,yes,no,no,yes,yes,yes,1843.123141319506,1
+one year,no,credit card (automatic),79.85,4786.1,female,0,no,no,both,dsl,yes,yes,yes,yes,no,yes,yes,1784.8999566700484,0
+month-to-month,no,mailed check,18.8,56.0,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,78.5068076045164,0
+two year,no,credit card (automatic),88.55,6362.35,male,0,no,no,both,dsl,yes,yes,yes,yes,yes,yes,yes,2178.753923559386,0
+month-to-month,no,electronic check,39.2,849.9,female,0,yes,yes,internet,dsl,no,yes,no,no,yes,no,nan,656.0329356575479,0
+two year,no,credit card (automatic),80.4,5727.15,male,0,yes,no,both,dsl,yes,yes,yes,yes,no,yes,yes,2148.189599921894,0
+two year,yes,electronic check,105.45,2715.3,female,0,no,yes,both,fiber optic,no,yes,yes,yes,yes,yes,no,779.3478747600103,0
+one year,yes,bank transfer (automatic),79.95,2684.85,female,0,no,no,both,fiber optic,no,yes,no,yes,no,no,no,991.1002020831206,0
+month-to-month,yes,electronic check,44.85,2479.05,male,1,no,no,internet,dsl,yes,yes,no,no,yes,no,nan,1661.5579017822317,0
+month-to-month,yes,electronic check,91.15,168.5,female,0,no,no,both,fiber optic,yes,yes,no,no,yes,no,no,48.21762274419477,0
+two year,no,bank transfer (automatic),98.35,6929.4,male,1,yes,no,both,fiber optic,no,yes,no,no,yes,yes,yes,2177.666004555125,0
+month-to-month,yes,credit card (automatic),19.2,532.1,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,747.7268847374985,0
+two year,yes,mailed check,19.85,146.6,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,230.71781921796057,0
+month-to-month,yes,electronic check,92.85,5305.05,male,0,yes,yes,both,fiber optic,no,yes,no,no,yes,yes,no,1752.460001049307,0
+one year,no,electronic check,69.2,4982.5,female,1,yes,yes,both,dsl,yes,yes,no,no,yes,no,yes,2148.066017487475,0
+one year,yes,electronic check,92.85,5980.75,female,0,yes,yes,both,fiber optic,no,yes,yes,no,no,yes,yes,1934.857028385543,0
+one year,no,electronic check,102.1,6688.1,male,1,no,no,both,fiber optic,no,no,yes,yes,yes,yes,yes,1934.7636648789673,0
+two year,no,credit card (automatic),110.25,7467.55,female,1,no,no,both,fiber optic,yes,no,yes,yes,yes,yes,yes,2089.0180163255977,0
+month-to-month,yes,electronic check,99.5,2369.05,female,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,no,748.9327890543807,1
+two year,yes,credit card (automatic),25.95,1801.9,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2148.506347183393,0
+two year,no,bank transfer (automatic),85.95,6151.9,male,0,yes,no,both,dsl,no,yes,yes,yes,yes,yes,yes,2176.2882669790524,0
+two year,yes,electronic check,99.2,7213.75,female,1,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,no,2148.717905324092,0
+month-to-month,no,electronic check,55.9,2184.35,female,0,yes,no,internet,dsl,yes,no,yes,no,yes,yes,nan,1172.2679954955252,1
+month-to-month,no,electronic check,24.75,24.75,male,0,no,yes,internet,dsl,no,no,no,no,no,no,nan,15.400588206518059,1
+one year,yes,credit card (automatic),97.95,5936.55,female,1,yes,no,both,fiber optic,no,yes,yes,no,yes,no,yes,1875.4098343080075,0
+month-to-month,yes,mailed check,50.55,610.75,male,0,no,no,both,dsl,no,no,no,yes,no,no,no,383.2473257515822,0
+month-to-month,no,bank transfer (automatic),29.05,44.75,female,0,yes,yes,internet,dsl,no,no,no,yes,no,no,nan,47.950846700839826,0
+month-to-month,no,mailed check,69.4,69.4,male,0,no,no,both,fiber optic,no,no,no,no,no,no,no,16.71268077054723,1
+two year,no,mailed check,88.1,5526.75,female,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,yes,1844.8712621047794,0
+month-to-month,yes,electronic check,89.8,914.3,male,1,yes,no,both,fiber optic,no,no,yes,no,no,yes,yes,293.42659211851503,1
+one year,no,mailed check,20.0,666.75,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1082.8181490700342,0
+month-to-month,yes,electronic check,101.5,906.85,male,0,yes,yes,both,fiber optic,no,yes,no,yes,yes,yes,no,263.2705787268804,0
+two year,no,credit card (automatic),86.55,5632.55,male,0,no,no,both,dsl,no,yes,yes,yes,yes,yes,yes,1934.6186047129916,0
+month-to-month,yes,bank transfer (automatic),80.35,1058.1,female,1,no,no,both,fiber optic,no,no,yes,no,no,no,yes,412.08163781282906,0
+month-to-month,no,mailed check,20.45,20.45,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,16.14630031425014,0
+month-to-month,no,electronic check,54.3,195.3,male,0,no,no,both,dsl,no,no,no,no,no,yes,no,108.43517092338396,1
+month-to-month,yes,bank transfer (automatic),100.15,1164.3,female,0,no,no,both,fiber optic,no,no,yes,no,yes,yes,yes,350.8751744077948,1
+two year,no,credit card (automatic),20.65,875.55,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1235.3582265084092,0
+month-to-month,yes,electronic check,81.3,416.3,male,0,yes,no,both,fiber optic,no,yes,no,no,no,no,yes,138.4344825855362,1
+one year,no,bank transfer (automatic),76.0,1588.75,female,0,yes,yes,both,dsl,yes,no,no,no,yes,yes,yes,597.9451214709874,0
+month-to-month,no,electronic check,24.7,780.2,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1023.2926894496968,0
+two year,no,credit card (automatic),19.7,1301.1,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,2150.886617851015,0
+one year,no,mailed check,40.9,1383.6,female,0,yes,yes,internet,dsl,no,no,no,yes,yes,no,nan,1052.050415825438,0
+month-to-month,no,bank transfer (automatic),19.5,805.2,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1111.7085616797788,0
+month-to-month,no,bank transfer (automatic),24.8,24.8,male,0,no,no,internet,dsl,no,no,no,no,no,no,nan,15.65162338105631,1
+two year,no,bank transfer (automatic),25.4,1620.2,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,2056.4759060184765,0
+month-to-month,no,electronic check,54.1,1373.0,female,0,yes,no,both,dsl,no,yes,no,no,no,no,yes,748.3576249378997,0
+month-to-month,yes,credit card (automatic),44.6,80.55,female,0,yes,no,both,dsl,no,no,no,no,no,no,no,47.59831321116481,1
+month-to-month,yes,mailed check,19.25,86.05,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,140.25350397755363,0
+month-to-month,yes,electronic check,29.7,438.25,male,0,no,no,internet,dsl,no,no,no,yes,no,no,nan,442.2823625594606,1
+month-to-month,yes,mailed check,24.5,270.15,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,291.7722672049412,0
+month-to-month,yes,mailed check,69.55,284.9,male,0,yes,yes,both,fiber optic,no,no,no,no,no,no,no,110.25050814518237,0
+month-to-month,no,electronic check,78.05,78.05,female,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,16.46707620010298,1
+two year,no,bank transfer (automatic),64.1,4326.25,female,0,yes,no,both,dsl,no,yes,no,yes,yes,no,no,2056.486719425118,0
+month-to-month,no,credit card (automatic),98.3,923.5,female,0,no,no,both,fiber optic,no,no,yes,no,yes,yes,yes,260.33165754589567,1
+two year,no,credit card (automatic),85.5,4421.95,female,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,no,1539.0543868316063,0
+month-to-month,yes,credit card (automatic),40.2,1478.85,female,0,no,no,internet,dsl,no,no,yes,no,no,yes,nan,1113.908950024028,0
+month-to-month,yes,electronic check,105.9,6401.25,female,1,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1811.773414587879,0
+month-to-month,yes,credit card (automatic),64.4,581.7,male,1,yes,no,both,dsl,no,no,yes,yes,no,yes,no,231.68083235749023,0
+month-to-month,yes,mailed check,70.1,551.35,male,0,no,no,both,fiber optic,no,no,no,no,no,no,no,231.55098448314774,1
+month-to-month,yes,electronic check,97.65,3207.55,female,0,yes,no,both,fiber optic,no,no,no,no,yes,yes,yes,1021.4014276328883,1
+month-to-month,no,electronic check,90.7,1374.9,female,0,yes,no,both,fiber optic,yes,yes,yes,no,no,no,yes,474.55207154608826,0
+month-to-month,yes,electronic check,79.55,723.4,female,0,no,no,both,fiber optic,no,no,no,no,no,yes,no,262.7399653160213,1
+two year,yes,bank transfer (automatic),20.95,1270.55,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1811.0102138376944,0
+month-to-month,yes,electronic check,69.2,69.2,female,0,no,no,both,fiber optic,no,no,no,no,no,no,no,17.326416063935383,1
+two year,no,credit card (automatic),70.9,4911.35,female,0,yes,no,both,dsl,yes,yes,yes,yes,no,no,yes,2056.858973547462,0
+month-to-month,yes,electronic check,68.5,68.5,male,0,yes,yes,both,fiber optic,no,no,no,no,no,no,no,17.100541359560264,1
+month-to-month,yes,credit card (automatic),73.15,2730.85,male,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,1174.2388604468917,0
+month-to-month,no,credit card (automatic),105.95,5341.8,male,0,yes,yes,both,fiber optic,yes,no,yes,no,yes,yes,yes,1507.7542978614263,1
+two year,no,mailed check,20.6,581.85,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,809.9848978489483,0
+month-to-month,no,electronic check,75.8,75.8,female,0,no,no,both,fiber optic,no,yes,no,no,no,no,no,17.698208028676213,1
+month-to-month,no,electronic check,19.95,19.95,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,17.99799339901655,1
+month-to-month,yes,electronic check,104.7,4346.4,male,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1235.4802182922413,1
+two year,yes,electronic check,53.0,3656.25,female,1,yes,yes,internet,dsl,no,yes,yes,no,yes,yes,nan,2056.0971605072855,0
+two year,no,mailed check,20.05,1090.1,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1693.4053886328459,0
+month-to-month,yes,electronic check,111.2,2317.1,male,0,yes,no,both,fiber optic,no,yes,yes,yes,yes,yes,yes,625.289957009795,1
+month-to-month,no,mailed check,19.25,331.35,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,535.9873396710385,0
+one year,yes,bank transfer (automatic),94.0,4905.75,male,1,no,no,both,fiber optic,no,no,yes,no,yes,yes,no,1538.3121979366322,0
+two year,no,credit card (automatic),101.0,7085.5,male,0,yes,no,both,fiber optic,yes,yes,yes,yes,no,yes,no,2117.8832555292324,0
+month-to-month,no,credit card (automatic),19.7,340.35,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,503.68360568262733,0
+one year,yes,electronic check,100.3,4483.95,female,0,no,no,both,fiber optic,yes,yes,no,no,yes,yes,no,1357.5278425766978,0
+one year,no,mailed check,19.65,436.9,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,689.8628823048834,0
+two year,no,mailed check,118.6,7990.05,female,0,yes,no,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2057.275622610805,0
+month-to-month,yes,mailed check,64.5,1888.45,male,0,no,no,both,dsl,yes,no,no,no,no,yes,yes,899.5633173219348,0
+one year,yes,electronic check,106.15,6256.2,female,0,yes,yes,both,fiber optic,no,yes,yes,no,yes,yes,yes,1783.9852536897222,0
+month-to-month,no,mailed check,29.8,201.95,female,0,no,yes,internet,dsl,yes,no,no,no,no,no,nan,202.20124662292397,0
+month-to-month,no,bank transfer (automatic),64.3,445.95,male,0,no,no,both,dsl,no,no,yes,yes,yes,no,no,200.07478313580836,0
+month-to-month,yes,credit card (automatic),54.75,1510.3,male,0,yes,yes,both,dsl,yes,yes,no,no,no,no,no,807.4648537255554,0
+month-to-month,yes,mailed check,58.95,601.6,female,0,no,no,both,dsl,no,no,no,no,no,yes,yes,322.80719380259563,0
+one year,yes,bank transfer (automatic),19.85,943.1,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1508.968008379259,0
+one year,no,mailed check,20.75,700.45,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1054.2809445743053,0
+two year,no,mailed check,25.4,1782.05,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,2118.014820369414,0
+two year,no,mailed check,56.8,3112.05,female,0,yes,no,both,dsl,yes,yes,no,yes,no,no,no,1661.950914136303,0
+month-to-month,yes,electronic check,71.65,71.65,male,1,no,no,both,fiber optic,no,no,no,no,no,no,no,16.643457949581318,1
+month-to-month,no,credit card (automatic),24.9,505.95,female,0,no,no,internet,dsl,no,no,no,no,no,no,nan,597.173128985262,0
+month-to-month,yes,electronic check,72.85,688.65,male,1,no,no,both,fiber optic,no,yes,no,no,no,no,no,289.8927593410979,1
+month-to-month,yes,mailed check,56.1,1033.9,female,0,no,no,both,dsl,no,no,yes,no,no,no,yes,565.6432585751757,0
+month-to-month,no,electronic check,46.0,46.0,female,1,yes,no,both,dsl,no,no,no,no,no,no,no,18.686202696073153,1
+month-to-month,no,electronic check,20.7,20.7,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,17.464081914523593,0
+two year,no,mailed check,25.0,300.7,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,324.3393277738174,0
+month-to-month,no,electronic check,73.6,520.0,male,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,201.44273539781184,1
+one year,no,mailed check,59.6,3509.4,male,0,yes,yes,both,dsl,yes,yes,no,yes,no,no,no,1723.0957393142419,0
+month-to-month,yes,electronic check,79.7,497.6,male,1,no,no,both,fiber optic,no,no,no,no,yes,no,no,171.16052061819147,0
+two year,no,credit card (automatic),19.1,1372.45,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,2149.818291957467,0
+month-to-month,yes,electronic check,70.7,151.65,female,0,no,no,both,fiber optic,no,no,no,no,no,no,no,47.894374178451066,1
+one year,no,electronic check,25.2,245.15,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,323.2481688150473,0
+one year,no,credit card (automatic),35.4,978.6,female,0,yes,no,internet,dsl,yes,no,yes,no,no,no,nan,778.6779774164713,0
+two year,no,mailed check,19.45,165.35,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,201.56132865198953,0
+month-to-month,yes,electronic check,104.35,6578.55,male,1,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1964.2817052506539,0
+month-to-month,no,electronic check,57.45,990.85,male,0,yes,yes,both,dsl,no,no,yes,no,no,yes,no,535.5289618981326,1
+month-to-month,no,electronic check,89.3,2823.0,male,0,yes,yes,both,fiber optic,yes,no,yes,yes,no,no,yes,930.9954608133844,0
+month-to-month,yes,electronic check,93.25,5774.55,male,1,yes,yes,both,fiber optic,yes,yes,no,no,no,yes,yes,1811.632264640992,0
+two year,yes,credit card (automatic),110.8,7245.9,female,0,yes,yes,both,fiber optic,no,yes,yes,yes,yes,yes,yes,1966.6634613790875,0
+month-to-month,yes,electronic check,50.0,1750.85,male,1,yes,no,internet,dsl,no,yes,yes,yes,yes,no,nan,993.0469721253778,0
+one year,yes,electronic check,94.15,4408.45,female,0,no,no,both,fiber optic,no,yes,yes,no,no,yes,yes,1387.1421056113004,0
+month-to-month,yes,bank transfer (automatic),107.35,5118.95,male,0,yes,yes,both,fiber optic,no,no,yes,yes,yes,yes,yes,1416.8563131319922,1
+month-to-month,yes,electronic check,81.55,4509.5,female,0,no,no,both,fiber optic,no,yes,yes,no,no,no,no,1661.1996778387495,0
+month-to-month,no,bank transfer (automatic),49.55,49.55,female,0,no,no,both,dsl,yes,no,no,no,no,no,no,16.29119331762771,0
+month-to-month,yes,electronic check,101.95,700.85,male,1,yes,no,both,fiber optic,no,no,yes,no,yes,yes,yes,200.50152988625265,1
+month-to-month,yes,mailed check,54.75,54.75,female,0,no,no,both,dsl,no,no,no,no,no,yes,no,16.628916938254292,1
+month-to-month,yes,electronic check,79.95,174.45,male,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,49.379880586242905,0
+two year,yes,credit card (automatic),75.85,4261.2,male,0,yes,yes,both,dsl,yes,yes,no,yes,no,yes,yes,1693.6122197761551,0
+one year,yes,credit card (automatic),95.7,4976.15,female,0,yes,yes,both,fiber optic,no,yes,yes,no,yes,no,yes,1569.4393816869392,0
+two year,no,bank transfer (automatic),86.85,6263.8,male,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,yes,2150.512163395668,0
+two year,no,mailed check,74.55,5430.65,female,0,yes,yes,both,dsl,yes,yes,no,yes,yes,no,yes,2176.6760927521286,0
+month-to-month,yes,electronic check,87.35,4473.0,male,0,no,no,both,fiber optic,no,yes,yes,yes,no,no,yes,1540.859017207641,0
+two year,no,credit card (automatic),115.1,7008.15,female,0,yes,yes,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,1843.4787233553423,0
+month-to-month,no,electronic check,79.9,79.9,male,0,no,no,both,fiber optic,no,no,no,no,no,yes,no,17.924336570148693,1
+two year,yes,bank transfer (automatic),105.4,6794.75,female,0,yes,no,both,fiber optic,no,yes,no,yes,yes,yes,yes,1935.1469918600458,0
+month-to-month,yes,credit card (automatic),69.95,1205.5,male,0,no,no,both,fiber optic,no,no,no,no,no,no,no,474.7230058696955,0
+month-to-month,no,credit card (automatic),85.3,2917.5,female,0,no,no,both,fiber optic,no,yes,no,yes,no,no,yes,1051.2575631358795,1
+month-to-month,yes,electronic check,45.3,2651.2,male,1,yes,no,internet,dsl,no,yes,yes,no,no,yes,nan,1753.931599971059,1
+two year,no,bank transfer (automatic),19.85,1326.35,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,2149.4069889336265,0
+month-to-month,yes,electronic check,109.1,5647.95,female,1,yes,no,both,fiber optic,yes,yes,yes,no,yes,yes,yes,1569.1352285071343,0
+one year,yes,bank transfer (automatic),89.85,4287.2,female,1,no,no,both,fiber optic,no,yes,yes,no,no,yes,no,1478.8277923754833,0
+one year,no,mailed check,24.95,1165.9,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,1388.6129621638677,0
+month-to-month,no,mailed check,20.1,39.8,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,48.28173149741279,0
+month-to-month,no,electronic check,20.85,473.9,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,688.2123647312125,0
+two year,no,mailed check,19.6,397.0,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,627.1955927260334,0
+month-to-month,no,mailed check,96.8,1826.7,male,0,yes,yes,both,fiber optic,no,yes,no,yes,yes,no,yes,597.1695362768896,0
+two year,yes,credit card (automatic),75.65,5411.4,female,1,yes,no,both,fiber optic,no,no,no,no,no,no,yes,2118.470501556328,0
+month-to-month,no,credit card (automatic),71.3,1389.2,male,1,no,no,both,fiber optic,no,no,no,no,no,no,no,595.7184257167638,1
+two year,no,credit card (automatic),25.15,553.0,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,716.3398918113863,0
+month-to-month,no,credit card (automatic),88.3,2467.75,female,1,no,no,both,fiber optic,no,no,yes,no,no,yes,yes,807.8392856354275,1
+month-to-month,yes,electronic check,60.0,60.0,female,0,no,yes,both,dsl,yes,yes,no,yes,no,no,no,17.015810743969904,1
+month-to-month,yes,bank transfer (automatic),56.75,503.25,male,0,no,no,both,dsl,no,no,no,no,no,yes,no,293.14110201484004,0
+month-to-month,yes,electronic check,79.6,195.05,female,1,no,no,both,fiber optic,no,no,no,no,no,yes,no,48.330087099558554,1
+month-to-month,yes,bank transfer (automatic),100.4,2936.25,male,0,no,no,both,fiber optic,yes,no,no,no,yes,yes,yes,901.7841575747757,0
+month-to-month,yes,electronic check,41.15,132.2,male,1,no,no,internet,dsl,no,no,yes,no,no,yes,nan,79.62382101472447,1
+two year,no,electronic check,20.55,1432.55,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,2177.2064235980397,0
+month-to-month,yes,bank transfer (automatic),74.9,2068.55,male,0,no,yes,both,fiber optic,yes,no,no,no,no,no,no,837.1436328572752,1
+two year,yes,mailed check,69.55,4459.15,male,0,yes,yes,both,dsl,yes,yes,no,no,no,yes,yes,1966.6021010885313,0
+two year,no,credit card (automatic),20.35,1458.1,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,2119.8888627214124,0
+two year,yes,credit card (automatic),19.85,1267.05,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1964.7082546678157,0
+month-to-month,no,electronic check,93.8,3019.5,male,0,yes,no,both,fiber optic,no,yes,yes,no,yes,no,yes,929.6783187664104,1
+month-to-month,no,credit card (automatic),25.1,382.8,male,0,no,no,internet,dsl,no,no,no,no,no,no,nan,503.6838295808531,0
+month-to-month,yes,mailed check,54.75,445.85,male,0,yes,no,both,dsl,no,yes,yes,no,no,no,no,231.9544739278599,0
+one year,no,mailed check,54.3,1546.3,female,0,no,no,both,dsl,yes,no,no,yes,no,no,no,838.0703626431945,0
+one year,no,credit card (automatic),19.3,259.65,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,381.1347996449374,0
+month-to-month,yes,mailed check,50.7,50.7,male,0,no,no,both,dsl,yes,no,no,no,no,no,no,17.418528560210753,0
+month-to-month,yes,mailed check,75.0,658.1,male,0,yes,no,both,fiber optic,yes,no,no,no,no,no,no,231.52194940385098,0
+month-to-month,no,electronic check,103.3,2012.7,male,0,yes,yes,both,fiber optic,no,no,yes,yes,yes,yes,yes,564.4059135415853,1
+month-to-month,yes,electronic check,94.5,3105.55,male,1,yes,no,both,fiber optic,no,no,no,no,yes,yes,yes,989.0113883770721,1
+month-to-month,yes,mailed check,20.1,20.1,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,18.134222712283623,1
+month-to-month,no,bank transfer (automatic),48.95,1323.7,male,0,no,no,both,dsl,no,no,yes,no,no,no,no,870.5008336837111,0
+one year,yes,credit card (automatic),66.85,4748.7,male,0,yes,yes,both,dsl,yes,yes,no,yes,no,no,yes,2148.5244903080097,0
+month-to-month,yes,mailed check,69.6,207.4,male,0,no,no,both,fiber optic,no,no,no,no,no,no,no,78.24506882754187,0
+two year,no,bank transfer (automatic),20.4,478.75,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,687.5710915448435,0
+two year,no,credit card (automatic),51.35,3244.4,female,0,yes,yes,internet,dsl,no,yes,yes,yes,yes,no,nan,1843.6565871454516,0
+one year,yes,credit card (automatic),35.2,1463.7,male,0,no,no,internet,dsl,yes,no,yes,no,no,no,nan,1295.8831288845947,0
+one year,yes,bank transfer (automatic),104.45,5481.25,male,1,yes,no,both,fiber optic,yes,no,yes,yes,yes,yes,no,1571.7856860434258,0
+one year,no,electronic check,55.8,1941.5,female,0,no,no,both,dsl,no,no,yes,no,no,no,yes,1081.4898279832844,0
+month-to-month,no,mailed check,69.6,1394.55,male,0,no,no,both,dsl,no,no,no,no,yes,yes,yes,565.4500257288001,0
+month-to-month,no,electronic check,25.1,79.8,male,0,no,no,internet,dsl,no,no,no,no,no,no,nan,77.93068569249871,0
+one year,yes,credit card (automatic),79.05,5552.5,male,0,no,no,both,fiber optic,no,yes,no,no,no,no,yes,2150.6884309177008,0
+month-to-month,yes,mailed check,45.7,45.7,male,0,no,no,both,dsl,no,no,no,no,no,no,no,15.400139282194193,1
+two year,yes,bank transfer (automatic),86.7,5309.5,male,0,no,no,both,dsl,yes,yes,yes,yes,yes,yes,no,1904.6970987914879,0
+month-to-month,no,mailed check,44.55,220.75,male,0,no,no,both,dsl,no,no,no,no,no,no,no,110.03848956500408,0
+one year,yes,bank transfer (automatic),102.35,3626.1,male,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,no,1052.545920928,1
+month-to-month,yes,credit card (automatic),91.5,3236.35,male,0,yes,no,both,fiber optic,no,no,no,yes,yes,no,yes,1052.4934915404194,0
+two year,no,bank transfer (automatic),20.65,1020.75,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,1539.0313832090146,0
+month-to-month,yes,bank transfer (automatic),80.5,1336.9,male,0,yes,no,both,fiber optic,no,yes,no,no,no,no,yes,505.1317529663406,0
+month-to-month,no,electronic check,45.55,2062.15,female,0,yes,no,internet,dsl,yes,yes,no,no,yes,no,nan,1387.2324281617596,0
+one year,no,credit card (automatic),90.45,5825.5,male,0,no,no,both,fiber optic,no,yes,no,no,no,yes,yes,1903.215723985866,0
+two year,yes,bank transfer (automatic),89.7,4304.5,female,0,no,no,both,fiber optic,no,no,yes,yes,no,yes,no,1510.7836418574907,0
+one year,yes,credit card (automatic),71.1,4140.1,male,1,yes,no,both,dsl,no,yes,yes,no,yes,no,yes,1722.9430508638175,0
+month-to-month,yes,electronic check,94.25,1483.25,male,0,no,no,both,fiber optic,yes,no,no,no,yes,yes,no,472.0342725009518,1
+one year,yes,credit card (automatic),75.2,4300.8,male,0,yes,yes,both,dsl,no,yes,no,yes,yes,yes,no,1752.8343189678758,0
+month-to-month,no,mailed check,25.55,372.45,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,414.39631440742437,0
+one year,yes,bank transfer (automatic),59.75,1374.35,male,0,yes,no,both,dsl,yes,no,no,no,yes,no,no,657.0447026671993,0
+two year,no,credit card (automatic),112.1,7965.95,female,0,yes,no,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2178.175752968574,0
+month-to-month,yes,bank transfer (automatic),104.95,6236.75,female,0,no,no,both,fiber optic,yes,no,yes,yes,yes,yes,no,1811.9940196796404,0
+one year,no,bank transfer (automatic),94.8,4535.85,male,0,no,no,both,fiber optic,yes,yes,no,no,yes,no,yes,1419.6783773094335,0
+two year,no,credit card (automatic),25.1,1672.15,male,1,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2026.6521430792493,0
+month-to-month,no,electronic check,79.0,143.65,male,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,46.23515764088393,1
+month-to-month,no,electronic check,96.55,500.1,male,0,no,no,both,fiber optic,no,yes,yes,no,no,yes,yes,139.20804711505087,0
+one year,yes,credit card (automatic),58.85,1215.45,female,0,yes,yes,both,dsl,no,yes,no,no,yes,no,no,628.4994327820759,0
+one year,no,mailed check,19.65,19.65,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,18.590493506204623,0
+month-to-month,no,bank transfer (automatic),56.25,2419.55,female,0,yes,yes,both,dsl,yes,no,no,yes,no,no,no,1327.3265532750977,0
+two year,yes,mailed check,19.7,494.05,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,716.3859712775103,0
+month-to-month,yes,electronic check,96.25,512.45,female,0,no,no,both,fiber optic,no,yes,no,no,yes,yes,no,138.694975889506,1
+month-to-month,yes,credit card (automatic),45.65,747.2,male,0,no,yes,both,dsl,no,no,no,no,no,no,no,535.2309003914546,0
+two year,yes,credit card (automatic),109.2,6741.15,male,0,yes,yes,both,fiber optic,no,yes,yes,yes,yes,yes,yes,1934.4150674654948,0
+month-to-month,yes,electronic check,106.15,6411.25,female,0,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1811.9367023591979,0
+month-to-month,no,credit card (automatic),70.7,140.7,male,0,no,no,both,fiber optic,no,no,no,no,no,no,no,46.416582377415594,1
+month-to-month,no,mailed check,19.95,109.6,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,139.69275599535658,0
+two year,yes,credit card (automatic),84.65,5377.8,male,0,yes,no,both,fiber optic,yes,no,no,yes,no,no,yes,1904.7275583882983,0
+month-to-month,yes,electronic check,105.15,4730.9,female,0,yes,yes,both,fiber optic,yes,yes,no,no,yes,yes,yes,1358.5317234530255,0
+two year,yes,bank transfer (automatic),98.65,7129.45,female,0,yes,yes,both,fiber optic,no,yes,yes,yes,no,yes,yes,2178.7203228736366,0
+month-to-month,yes,electronic check,94.25,1973.75,female,1,no,no,both,fiber optic,no,no,no,no,yes,yes,yes,627.1848959011278,1
+month-to-month,yes,electronic check,81.15,2640.55,male,0,no,no,both,fiber optic,no,yes,no,no,no,no,yes,931.5670952607842,0
+month-to-month,no,electronic check,75.6,535.55,female,0,no,no,both,fiber optic,no,yes,no,no,no,no,no,231.52951727622641,0
+one year,no,electronic check,95.95,5036.9,male,0,no,yes,both,fiber optic,yes,yes,yes,no,no,yes,no,1600.1025183751638,0
+two year,no,credit card (automatic),90.3,6287.3,male,0,yes,yes,both,dsl,yes,yes,yes,yes,yes,yes,yes,2149.934394655466,0
+month-to-month,yes,electronic check,89.95,6143.15,male,1,yes,no,both,fiber optic,no,yes,no,no,yes,no,yes,2087.5548103085744,1
+two year,yes,credit card (automatic),80.7,5705.05,female,0,yes,no,both,dsl,no,yes,yes,yes,yes,yes,no,2149.767306101518,0
+one year,no,mailed check,20.1,407.05,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,536.4400040561209,0
+month-to-month,yes,electronic check,19.4,374.5,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,595.3105802769919,1
+two year,yes,electronic check,60.0,4264.0,female,0,yes,yes,internet,dsl,no,yes,yes,yes,yes,yes,nan,2178.1447863267263,0
+one year,no,credit card (automatic),20.4,482.8,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,716.7040033654087,0
+month-to-month,yes,electronic check,50.85,2036.55,female,0,yes,yes,internet,dsl,no,yes,no,no,yes,yes,nan,1204.859494058019,0
+month-to-month,no,electronic check,91.85,257.05,male,0,no,yes,both,fiber optic,no,no,yes,no,no,yes,yes,79.81186092998628,1
+one year,no,bank transfer (automatic),20.85,450.65,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,658.8170427332965,0
+month-to-month,yes,credit card (automatic),75.2,633.85,female,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,263.88133821709596,0
+one year,no,mailed check,34.7,1604.5,female,0,yes,no,internet,dsl,no,yes,yes,no,no,no,nan,1446.4606750293435,1
+one year,no,credit card (automatic),87.55,4475.9,female,0,no,no,both,fiber optic,no,no,no,no,yes,yes,no,1540.1644440822074,0
+month-to-month,yes,mailed check,44.15,44.15,male,0,no,no,both,dsl,no,no,no,no,no,no,no,18.46972373894124,1
+one year,yes,bank transfer (automatic),90.55,6130.95,female,0,yes,no,both,fiber optic,no,yes,yes,yes,no,no,yes,1996.697972008276,0
+two year,yes,electronic check,103.2,5873.75,male,0,yes,yes,both,fiber optic,no,no,yes,yes,yes,yes,yes,1693.487152389335,0
+month-to-month,yes,mailed check,109.8,3587.25,female,0,no,no,both,fiber optic,yes,yes,yes,no,yes,yes,yes,1022.0596092287934,1
+month-to-month,yes,electronic check,106.7,1253.9,male,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,352.93895916228894,1
+two year,yes,electronic check,88.15,6148.45,female,0,no,no,both,dsl,yes,yes,yes,yes,yes,yes,yes,2056.610153356304,0
+two year,yes,credit card (automatic),97.65,6743.55,male,0,no,no,both,fiber optic,no,yes,yes,yes,yes,no,yes,2087.4358018730277,0
+month-to-month,yes,electronic check,100.55,1415.55,male,0,no,no,both,fiber optic,no,yes,no,no,yes,yes,yes,413.43203740428964,1
+two year,yes,bank transfer (automatic),19.3,1447.9,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,2087.3340499667365,0
+one year,no,mailed check,19.3,228.75,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,352.8412501925449,0
+month-to-month,yes,bank transfer (automatic),69.15,235.0,female,0,yes,yes,both,dsl,no,yes,yes,no,yes,no,yes,79.00142748444938,0
+month-to-month,no,mailed check,20.4,42.9,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,49.75611941407786,0
+one year,yes,credit card (automatic),24.8,321.7,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,412.88377068667756,0
+month-to-month,yes,bank transfer (automatic),97.7,3410.0,male,0,yes,yes,both,fiber optic,no,yes,no,no,yes,yes,yes,1022.0540524873583,0
+month-to-month,no,mailed check,19.55,19.55,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,18.346028859251657,0
+one year,yes,electronic check,90.65,5199.8,male,1,yes,no,both,fiber optic,no,yes,yes,no,yes,no,no,1722.2353708404523,0
+month-to-month,yes,credit card (automatic),69.05,653.95,male,0,yes,no,both,dsl,no,yes,yes,no,no,yes,yes,263.39504550995844,0
+month-to-month,no,bank transfer (automatic),69.15,488.65,male,0,no,no,both,fiber optic,no,no,no,no,no,no,no,202.0142073414762,0
+month-to-month,no,electronic check,80.85,302.75,female,0,yes,yes,both,fiber optic,no,no,no,no,no,yes,no,107.56668135403943,1
+two year,yes,electronic check,104.05,6590.5,male,0,no,yes,both,fiber optic,no,no,yes,yes,yes,yes,yes,1874.3939803344067,0
+month-to-month,yes,electronic check,89.75,5496.9,female,1,no,no,both,fiber optic,yes,yes,yes,no,no,no,yes,1785.4622173705204,0
+month-to-month,yes,bank transfer (automatic),72.25,2575.45,male,1,yes,no,both,fiber optic,no,no,no,no,no,no,no,1113.091502898254,0
+month-to-month,yes,electronic check,104.5,5068.05,female,1,yes,yes,both,fiber optic,yes,no,yes,yes,yes,yes,no,1448.2024610549347,0
+one year,yes,electronic check,95.8,3036.75,male,0,yes,no,both,fiber optic,no,no,yes,no,yes,yes,no,991.8355825058273,1
+one year,no,mailed check,40.25,411.45,female,0,no,yes,internet,dsl,yes,yes,no,yes,no,no,nan,291.5993917045399,0
+one year,yes,bank transfer (automatic),64.4,3035.35,male,0,no,yes,both,dsl,yes,yes,yes,no,no,no,yes,1446.921442889989,0
+month-to-month,no,electronic check,109.55,6118.95,male,0,yes,no,both,fiber optic,yes,yes,yes,no,yes,yes,yes,1630.5114696560404,0
+month-to-month,yes,mailed check,24.4,253.9,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,292.6746029096073,0
+month-to-month,no,mailed check,19.4,61.05,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,48.004745829330204,0
+month-to-month,yes,electronic check,75.95,3273.8,male,0,no,no,both,dsl,yes,no,yes,no,yes,yes,no,1357.9047181910644,0
+two year,yes,mailed check,114.5,8331.95,male,1,yes,no,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2178.2137523787887,0
+month-to-month,no,electronic check,80.85,1400.85,male,0,yes,yes,both,fiber optic,no,no,no,no,yes,no,no,505.45656048282655,1
+month-to-month,yes,electronic check,81.1,81.1,female,0,no,no,both,fiber optic,no,no,no,no,no,yes,no,16.13163550078623,1
+month-to-month,yes,credit card (automatic),58.4,964.9,male,1,no,no,both,dsl,yes,yes,no,no,no,no,yes,536.5734294537209,0
+month-to-month,yes,electronic check,90.85,6470.1,female,1,yes,no,both,fiber optic,yes,no,no,no,no,yes,yes,2118.5482570597014,0
+month-to-month,yes,electronic check,68.95,68.95,female,0,yes,no,both,fiber optic,no,no,no,no,no,no,no,17.579918503986292,1
+month-to-month,yes,electronic check,85.3,264.8,male,0,no,no,both,fiber optic,no,no,no,no,no,yes,yes,78.29423854625577,1
+one year,no,bank transfer (automatic),75.7,3876.2,female,0,yes,no,both,dsl,no,no,yes,no,yes,yes,yes,1510.839965931253,0
+month-to-month,yes,electronic check,97.8,4913.3,male,1,no,no,both,fiber optic,no,no,yes,no,yes,yes,yes,1538.337239751077,1
+month-to-month,yes,electronic check,79.2,79.2,female,1,no,no,both,fiber optic,no,no,no,no,yes,no,no,16.886539676453033,1
+two year,yes,bank transfer (automatic),85.9,5595.3,male,0,yes,no,both,dsl,yes,yes,yes,yes,yes,yes,no,1995.9737574677276,0
+one year,no,credit card (automatic),114.35,5791.1,male,0,no,no,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,1509.7150724439377,0
+month-to-month,yes,electronic check,56.2,1093.4,female,0,no,no,both,dsl,no,no,no,no,no,yes,no,566.3259278963451,0
+two year,yes,bank transfer (automatic),25.2,1798.9,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,2177.1425733240562,0
+month-to-month,no,mailed check,20.0,109.2,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,170.72868249684603,0
+month-to-month,no,mailed check,50.85,239.55,female,0,yes,yes,both,dsl,no,no,no,no,no,no,yes,108.62857817823554,1
+month-to-month,yes,electronic check,49.55,49.55,female,1,yes,no,both,dsl,yes,no,no,no,no,no,no,17.367487870290734,1
+one year,no,electronic check,23.9,97.5,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,109.67677901015774,0
+one year,yes,credit card (automatic),105.65,6903.1,male,0,no,no,both,fiber optic,no,yes,no,yes,yes,yes,yes,1935.9345626647137,1
+one year,yes,electronic check,90.45,2509.25,female,0,yes,yes,both,fiber optic,no,no,no,yes,no,yes,yes,838.8693420767665,0
+month-to-month,no,credit card (automatic),66.4,831.75,male,0,no,yes,both,dsl,no,no,no,no,yes,yes,no,383.8452967813637,0
+month-to-month,yes,electronic check,100.2,2983.8,female,0,no,no,both,fiber optic,no,yes,no,no,yes,yes,yes,900.8245556529224,1
+one year,yes,mailed check,65.9,660.05,female,0,yes,yes,both,dsl,no,yes,yes,no,no,yes,no,293.547988593135,0
+month-to-month,no,mailed check,70.9,70.9,female,0,no,no,both,fiber optic,no,no,no,no,no,no,no,17.607668951301964,1
+month-to-month,no,mailed check,20.25,36.8,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,48.456082808129466,0
+month-to-month,yes,electronic check,88.75,1885.15,male,0,yes,yes,both,fiber optic,no,no,yes,no,yes,no,yes,658.1647485676399,0
+month-to-month,no,credit card (automatic),94.15,5731.85,male,0,yes,no,both,fiber optic,no,yes,yes,yes,no,yes,no,1842.9117045806481,0
+month-to-month,no,electronic check,46.35,667.7,male,0,yes,no,internet,dsl,no,no,no,no,yes,yes,nan,411.19628195448684,1
+two year,yes,bank transfer (automatic),25.0,1802.55,male,1,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2177.0754297977387,0
+one year,no,bank transfer (automatic),29.9,1388.75,female,1,yes,yes,internet,dsl,no,yes,no,no,no,no,nan,1447.6371646911598,0
+one year,yes,electronic check,94.4,5610.25,male,0,yes,no,both,fiber optic,no,yes,no,no,yes,yes,no,1812.0672377665041,1
+one year,no,credit card (automatic),36.0,1382.9,male,0,no,no,internet,dsl,no,yes,no,yes,no,no,nan,1205.5607013127062,0
+month-to-month,no,mailed check,20.7,57.5,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,77.61021262991704,0
+two year,yes,electronic check,25.1,1070.15,female,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,1296.513893785499,0
+two year,no,credit card (automatic),25.85,1872.2,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,2178.522143178669,0
+one year,yes,credit card (automatic),70.15,3715.65,female,0,yes,no,both,dsl,no,no,no,no,yes,yes,yes,1629.1319507661567,1
+month-to-month,yes,electronic check,59.6,2094.9,male,0,no,no,both,dsl,yes,no,yes,no,no,no,yes,1052.9953411942715,0
+month-to-month,yes,credit card (automatic),49.5,312.7,male,0,no,no,both,dsl,no,no,no,yes,no,no,no,171.54169923681616,0
+month-to-month,no,mailed check,20.2,20.2,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,17.27405338486074,0
+month-to-month,yes,bank transfer (automatic),89.55,6373.1,male,0,yes,yes,both,fiber optic,no,yes,no,no,no,yes,yes,2026.2310939018112,0
+month-to-month,no,mailed check,44.6,44.6,male,0,no,no,both,dsl,no,no,no,no,no,no,no,18.473686898282487,0
+month-to-month,yes,mailed check,70.45,70.45,female,1,yes,no,both,fiber optic,no,no,no,no,no,no,no,18.389302694854162,1
+month-to-month,yes,mailed check,45.85,45.85,male,0,no,no,both,dsl,no,no,no,no,no,no,no,16.256914290173086,1
+month-to-month,no,mailed check,20.1,20.1,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,16.82118064275604,1
+two year,yes,bank transfer (automatic),101.3,7261.25,female,0,no,no,both,fiber optic,yes,yes,yes,no,yes,no,yes,2176.894856610139,0
+month-to-month,no,mailed check,20.5,20.5,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,16.308461611454085,1
+one year,no,bank transfer (automatic),19.9,329.75,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,505.33537516639353,0
+one year,yes,credit card (automatic),96.4,4911.05,male,0,yes,no,both,fiber optic,yes,yes,no,no,no,yes,yes,1539.3641379210028,0
+month-to-month,yes,electronic check,77.85,3365.85,male,0,no,no,both,fiber optic,no,yes,no,no,no,no,yes,1295.3704160571729,1
+month-to-month,yes,electronic check,101.35,1218.55,male,1,yes,no,both,fiber optic,no,yes,no,no,yes,yes,yes,352.29977286117565,1
+month-to-month,no,electronic check,45.15,45.15,female,0,no,no,both,dsl,no,no,no,no,no,no,no,17.659161954201437,1
+two year,yes,bank transfer (automatic),114.95,8196.4,male,1,yes,yes,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2176.8415636843047,0
+one year,yes,mailed check,20.15,682.15,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,992.0318776834264,0
+month-to-month,no,mailed check,20.4,20.4,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,15.105828564360579,1
+month-to-month,yes,electronic check,86.05,1818.9,female,0,yes,no,both,fiber optic,no,no,no,yes,yes,no,no,627.1843812206013,0
+month-to-month,yes,electronic check,103.0,4414.3,male,1,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1296.5428758107078,1
+month-to-month,no,credit card (automatic),55.0,757.1,female,1,no,no,both,dsl,no,no,no,yes,no,no,yes,444.5945642949462,1
+month-to-month,no,mailed check,45.6,45.6,male,0,no,no,both,dsl,no,no,no,no,no,no,no,17.38362551975252,0
+one year,yes,bank transfer (automatic),104.55,5794.65,male,1,yes,yes,both,fiber optic,yes,no,yes,no,yes,yes,yes,1692.4254796029747,1
+two year,yes,bank transfer (automatic),59.8,3457.45,male,0,yes,yes,both,dsl,yes,yes,yes,no,no,no,no,1692.3096188357754,0
+month-to-month,no,mailed check,19.5,19.5,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,18.99233291395599,0
+one year,yes,mailed check,100.3,5200.8,female,0,no,no,both,fiber optic,no,yes,yes,no,yes,yes,no,1600.3859167536384,0
+month-to-month,no,mailed check,19.85,19.85,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,16.23104748815225,0
+one year,yes,mailed check,40.2,711.95,female,0,no,no,internet,dsl,yes,yes,no,yes,no,no,nan,534.6893828266699,0
+month-to-month,no,electronic check,75.6,402.5,female,0,no,no,both,fiber optic,no,no,no,no,no,no,yes,138.80895685192365,0
+month-to-month,yes,bank transfer (automatic),70.4,1214.05,male,0,yes,no,both,fiber optic,no,no,no,no,no,no,no,505.40811935953514,1
+month-to-month,yes,bank transfer (automatic),74.65,3090.65,female,0,no,no,both,dsl,yes,no,yes,yes,no,yes,yes,1233.872675382348,0
+one year,no,electronic check,59.4,1952.8,female,0,no,no,both,dsl,yes,no,no,yes,no,no,yes,992.7697802634221,0
+month-to-month,yes,electronic check,70.15,268.35,female,0,no,no,both,fiber optic,no,no,no,no,no,no,no,108.03889603600075,1
+one year,yes,electronic check,90.15,4916.95,female,0,yes,no,both,dsl,yes,yes,yes,yes,yes,yes,yes,1662.4515696042927,0
+one year,yes,credit card (automatic),75.5,2424.45,male,0,yes,no,both,dsl,yes,yes,yes,yes,no,yes,no,930.3065497566621,0
+month-to-month,no,mailed check,70.5,829.3,female,0,no,no,both,dsl,no,no,no,yes,yes,yes,no,322.7466494166778,0
+one year,yes,bank transfer (automatic),70.95,4555.2,male,1,yes,no,both,fiber optic,no,no,no,no,no,no,no,1964.9955893282859,0
+one year,yes,electronic check,64.2,3627.3,male,0,no,no,both,dsl,no,yes,no,yes,no,yes,no,1663.2625919731747,0
+month-to-month,no,mailed check,54.7,235.05,female,0,yes,no,both,dsl,yes,yes,no,no,no,no,no,110.52472467996888,0
+month-to-month,yes,electronic check,88.95,355.2,female,0,no,no,both,fiber optic,no,yes,no,no,no,yes,yes,110.80374786273998,1
+one year,no,electronic check,60.35,4138.7,male,0,yes,yes,internet,dsl,no,yes,yes,yes,yes,yes,nan,2117.2240267075804,0
+month-to-month,yes,electronic check,26.35,378.6,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,444.7336029147901,0
+one year,yes,mailed check,108.5,6880.85,male,0,yes,no,both,fiber optic,yes,no,yes,yes,yes,yes,yes,1934.6205828806374,0
+month-to-month,no,mailed check,33.6,550.35,male,0,no,no,internet,dsl,yes,no,yes,no,no,no,nan,536.9376289474743,0
+two year,no,bank transfer (automatic),26.45,1110.05,male,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,yes,1297.5914800443322,0
+two year,no,bank transfer (automatic),113.4,8164.1,male,0,no,no,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2177.5852469778365,0
+month-to-month,yes,mailed check,84.6,2088.05,female,0,no,no,both,fiber optic,no,no,no,no,yes,no,yes,747.3954661286153,0
+two year,no,electronic check,115.15,8349.7,female,0,yes,no,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2178.1458782886807,0
+two year,yes,bank transfer (automatic),24.0,1664.3,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,2056.6690357185416,0
+two year,yes,credit card (automatic),114.05,8468.2,male,0,yes,yes,both,fiber optic,yes,yes,yes,yes,yes,yes,yes,2176.6007712809164,0
+month-to-month,no,bank transfer (automatic),84.5,662.65,male,0,no,no,both,fiber optic,no,no,no,no,no,yes,yes,228.83948033950713,1
+month-to-month,yes,credit card (automatic),79.55,958.25,female,0,no,no,both,fiber optic,no,no,no,yes,no,no,yes,350.4055901419939,0
+one year,no,electronic check,79.2,1742.45,female,0,yes,no,both,fiber optic,no,no,yes,yes,no,no,no,626.5415175319517,0
+month-to-month,no,bank transfer (automatic),45.9,505.95,female,0,yes,no,both,dsl,no,no,no,no,no,no,no,352.17917379873165,0
+two year,no,bank transfer (automatic),20.7,1492.1,male,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,2176.426232156857,0
+two year,yes,credit card (automatic),96.35,6766.95,female,1,yes,no,both,fiber optic,yes,yes,yes,yes,no,no,yes,2148.799833845187,0
+month-to-month,yes,credit card (automatic),96.95,5432.2,male,0,yes,yes,both,fiber optic,no,yes,no,yes,yes,no,yes,1693.6319386868722,0
+two year,no,mailed check,25.75,1345.85,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,yes,1571.6259566405517,0
+two year,no,mailed check,20.15,220.8,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,292.0138491500092,0
+month-to-month,no,mailed check,20.2,382.2,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,567.044596177714,0
+one year,yes,credit card (automatic),20.1,644.5,female,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1053.4348436279563,0
+month-to-month,yes,electronic check,93.0,2248.05,male,0,yes,no,both,fiber optic,no,no,no,no,yes,yes,yes,717.135561244001,0
+month-to-month,no,mailed check,79.3,2570.0,female,1,yes,no,both,fiber optic,no,no,yes,no,no,no,yes,960.7050138133442,0
+month-to-month,yes,electronic check,69.55,69.55,female,1,yes,no,both,fiber optic,no,no,no,no,no,no,no,17.13342117326892,1
+two year,yes,credit card (automatic),74.2,4805.65,male,0,no,no,both,dsl,no,yes,yes,yes,no,yes,yes,1965.302351626696,0
+month-to-month,no,electronic check,20.15,91.4,female,0,yes,no,phone,nan,nan,nan,nan,nan,nan,nan,no,109.96435650064515,0
+two year,no,mailed check,79.2,2497.2,female,0,no,no,both,dsl,no,yes,yes,yes,yes,yes,no,930.6747686203263,0
+two year,yes,credit card (automatic),82.65,5919.35,female,0,yes,no,both,dsl,yes,yes,yes,no,yes,yes,yes,2178.93240952288,0
+two year,no,mailed check,19.45,1378.45,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,2148.7381500226543,0
+month-to-month,yes,electronic check,88.85,1594.75,female,0,yes,no,both,fiber optic,no,no,no,yes,yes,no,yes,534.1183358444293,0
+two year,yes,credit card (automatic),111.6,6876.05,male,0,no,no,both,fiber optic,yes,no,yes,yes,yes,yes,yes,1844.7647278052432,1
+two year,yes,bank transfer (automatic),74.35,4317.35,male,0,no,no,both,dsl,yes,no,yes,no,yes,yes,no,1724.8920009913713,0
+month-to-month,no,bank transfer (automatic),59.2,1191.2,male,0,no,no,both,dsl,yes,no,no,yes,no,no,yes,596.1430784381917,0
+two year,no,bank transfer (automatic),73.25,4054.2,female,1,no,no,both,dsl,yes,no,yes,yes,no,yes,yes,1693.5800364699817,0
+month-to-month,yes,credit card (automatic),110.1,4469.1,male,0,yes,yes,both,fiber optic,yes,yes,no,yes,yes,yes,yes,1203.5636212761472,0
+one year,no,mailed check,20.4,20.4,male,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,18.82478381737033,0
+month-to-month,yes,bank transfer (automatic),103.5,6548.65,male,1,no,no,both,fiber optic,yes,yes,no,no,yes,yes,yes,1936.4005205944968,0
+two year,yes,electronic check,110.35,7246.15,male,1,no,no,both,fiber optic,yes,no,yes,yes,yes,yes,yes,1964.5708110646274,0
+month-to-month,no,electronic check,72.9,818.45,male,0,no,no,both,fiber optic,no,no,yes,no,no,no,no,322.35658283799313,0
+month-to-month,yes,electronic check,79.85,1471.75,male,1,no,no,both,fiber optic,no,no,yes,no,no,no,yes,565.7883348367502,1
+one year,no,mailed check,66.15,1874.45,female,0,yes,yes,both,dsl,yes,yes,yes,yes,no,no,no,807.7339389802887,0
+one year,yes,credit card (automatic),80.65,2209.75,male,0,yes,yes,both,fiber optic,yes,yes,no,no,no,no,no,808.233108459977,0
+one year,no,mailed check,44.8,2983.65,male,0,yes,yes,internet,dsl,yes,yes,no,no,yes,no,nan,2057.9146197265227,0
+month-to-month,yes,electronic check,103.4,6603.0,male,0,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,yes,1903.8440818718611,1
+month-to-month,yes,mailed check,44.3,44.3,male,0,no,no,both,dsl,no,no,no,no,no,no,no,17.827921077539937,0
+month-to-month,yes,electronic check,79.4,244.65,female,0,no,no,both,fiber optic,no,no,no,no,yes,no,no,78.62023189291097,1
+two year,no,mailed check,20.0,833.55,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,1266.3128702908598,0
+month-to-month,no,electronic check,20.0,20.0,female,0,yes,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,16.051829589763386,0
+month-to-month,no,credit card (automatic),94.0,5438.95,female,1,yes,no,both,fiber optic,no,yes,yes,no,no,yes,yes,1722.1142377355354,0
+one year,no,electronic check,93.55,6069.25,male,0,no,no,both,fiber optic,yes,no,no,yes,no,yes,yes,1964.9241024667674,0
+month-to-month,no,mailed check,58.5,539.85,female,0,no,no,internet,dsl,yes,no,yes,yes,yes,yes,nan,259.1701445853998,1
+month-to-month,yes,credit card (automatic),71.3,157.75,male,0,no,no,both,fiber optic,no,no,no,no,no,no,no,47.52630754074006,0
+month-to-month,yes,electronic check,106.6,1934.45,female,0,no,no,both,fiber optic,yes,no,yes,yes,yes,yes,no,565.2585953381006,1
+month-to-month,no,mailed check,19.95,38.15,female,0,no,no,phone,nan,nan,nan,nan,nan,nan,nan,no,48.34231680522859,0
+month-to-month,yes,electronic check,24.95,190.25,male,0,no,no,internet,dsl,no,no,no,no,no,no,nan,262.4255115539811,0
+one year,yes,credit card (automatic),106.4,7251.9,female,0,yes,no,both,fiber optic,yes,yes,no,yes,yes,yes,no,2089.017197485126,0
+one year,yes,mailed check,57.75,1282.85,female,0,yes,yes,both,dsl,yes,yes,no,yes,no,no,no,689.2068502111019,0
+two year,yes,mailed check,100.05,6034.85,female,0,yes,no,both,fiber optic,no,yes,no,yes,yes,yes,no,1784.3027767861388,0
+month-to-month,yes,mailed check,21.05,21.05,male,0,no,yes,phone,nan,nan,nan,nan,nan,nan,nan,no,16.33349381919122,0
+one year,yes,bank transfer (automatic),100.55,4304.0,male,1,yes,no,both,fiber optic,no,yes,yes,no,yes,yes,no,1297.3564811869444,0
+month-to-month,yes,electronic check,84.4,556.35,male,0,no,no,both,fiber optic,no,yes,no,no,no,yes,no,170.7585548672451,1
+month-to-month,yes,electronic check,96.8,1743.05,female,0,yes,no,both,fiber optic,no,no,yes,no,yes,yes,no,567.629643777984,0
