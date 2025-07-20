@@ -66,16 +66,17 @@ predicting_cust_churn/
 ├── train_data_cat.csv
 │
 ├── notebooks/
-│   ├── sprint_17_project_model_prep_test.ipynb   # Data cleaning, FE, and testing
-│   └── sprint_17_project_report.ipynb            # EDA, model results, SHAP, summary
+│   ├── sprint_17_project_model_prep_test.ipynb
+│   └── sprint_17_project_report.ipynb
 │
 ├── src/
-│   ├── model_utils.py           # Common utility functions: metrics, preprocessing, etc.
-│   ├── lightgbm_gpu_tuning.py       # Hyperparameter tuning for LightGBM
-│   ├── xgboost_gpu_tuning.py        # Hyperparameter tuning for XGBoost
-│   ├── catboost_gpu_tuning.py       # Hyperparameter tuning for CatBoost
-│   └── xgb_testing.py    # Final testing using best model from tuning
+│   ├── model_utils.py
+│   ├── lightgbm_gpu_tuning.py
+│   ├── xgboost_gpu_tuning.py
+│   ├── catboost_gpu_tuning.py
+│   └── xgb_testing.py
 │
-├── README.md                    # Project overview, instructions, findings
-├── requirements.txt             # List of required Python packages
-└── .gitignore                   # Ignore compiled files, .ipynb_checkpoints, etc.
+├── README.md
+├── LICENSE
+├── requirements.txt
+└── .gitignore
